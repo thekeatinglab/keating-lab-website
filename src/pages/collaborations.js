@@ -1,5 +1,5 @@
 import Head from 'next/head';
-import NavBar from '@/components/NavBar';
+import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import data from '@/data/labData.json';
 
@@ -9,7 +9,7 @@ export default function Collaborations() {
       <Head>
         <title>Collaborations - Keating Lab</title>
       </Head>
-      <NavBar />
+      <Navbar />
       <main>
         <section className="py-12 px-4 md:px-8 bg-white">
           <div className="max-w-5xl mx-auto">

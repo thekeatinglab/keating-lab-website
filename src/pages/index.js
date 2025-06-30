@@ -1,6 +1,6 @@
 import Head from 'next/head';
 import Link from 'next/link';
-import NavBar from '@/components/NavBar';
+import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import data from '@/data/labData.json';
 
@@ -11,7 +11,7 @@ export default function Home() {
         <title>Keating Lab - NYU Langone Health</title>
         <meta name="description" content="Keating Lab at NYU Langone Health" />
       </Head>
-      <NavBar />
+      <Navbar />
       <main>
         {/* Hero Section */}
         <section className="relative">

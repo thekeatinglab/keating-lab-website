@@ -1,6 +1,6 @@
 import Head from 'next/head';
 import { useState } from 'react';
-import NavBar from '@/components/NavBar';
+import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import data from '@/data/labData.json';
 
@@ -13,7 +13,7 @@ export default function People() {
         <title>People - Keating Lab</title>
         <link rel="icon" type="image/x-icon" href="/favicon.ico" />
       </Head>
-      <NavBar />
+      <Navbar />
       <main>
         <section className="py-16 px-4 md:px-8 bg-gray-50">
           <div className="max-w-5xl mx-auto">

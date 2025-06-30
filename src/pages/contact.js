@@ -1,5 +1,5 @@
 import Head from 'next/head';
-import NavBar from '@/components/NavBar';
+import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import data from '@/data/labData.json';
 
@@ -9,7 +9,7 @@ export default function Contact() {
       <Head>
         <title>Contact - Keating Lab</title>
       </Head>
-      <NavBar />
+      <Navbar />
       <main>
         <section className="relative w-full h-[700px] bg-gray-900">
           {/* Background Image */}
