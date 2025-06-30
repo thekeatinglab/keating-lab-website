@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Harding&display=swap'); /* Replace with actual Harding font URL if available */
+
+/* Define Harding font */
+@font-face {
+  font-family: 'Harding';
+  src: url('/fonts/Harding-Regular.woff2') format('woff2'),
+       url('/fonts/Harding-Regular.woff') format('woff'),
+       url('/fonts/Harding-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Add additional weights if available, e.g., for bold */
+@font-face {
+  font-family: 'Harding';
+  src: url('/fonts/Harding-Bold.woff2') format('woff2'),
+       url('/fonts/Harding-Bold.woff') format('woff'),
+       url('/fonts/Harding-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply font-harding bg-gray-50;
+}
+
+h1, h2, h3 {
+  @apply font-harding font-bold;
+}

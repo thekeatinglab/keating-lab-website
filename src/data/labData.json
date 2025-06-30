@@ -1,0 +1,1306 @@
+{
+  "labInfo": {
+    "name": "Keating Lab",
+    "tagline": "Unlocking the Future of Transplant Medicine.",
+    "description": "Welcome to the Keating Lab! We are a research group dedicated to advancing the field of transplantation medicine through multiomic science. Our work delves deep into the intricate  molecular mechanisms of genomics, transcriptomics, proteomics, metabolomics and integrating these powerful datasets to understand the biology of transplant biology through different molecular lenses. By integrating advanced immunology with insights from molecular pathology and the innovative application of artificial intelligence (AI), we aim to decipher the molecular underpinnings of transplant outcomes, ultimately striving to enhance patient outcomes and usher in a new era of personalized, precision medicine.",
+    "address": "NYU Langone Health, 550 First Ave, New York, NY 10016",
+    "email": "keatinglab@nyulangone.org",
+    "phone": "(212) 263-7300",
+    "contactDescription": "Reach out to us for inquiries, collaboration opportunities, or to learn more about our work.",
+    "googleMapsEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.947207189885!2d-73.97513968459412!3d40.74205897932851!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259038ac1b31f%3A0x759ca3d86e684af9!2s550%20First%20Avenue%2C%20New%20York%2C%20NY%2010016!5e0!3m2!1sen!2sus!4v1697056789012!5m2!1sen!2sus"
+  },
+  "recentResearch": [
+    {
+      "title": "Organ Transplantation & Xenotransplantation",
+      "description": "Improving Transplant Outcomes: From Allografts to Xenografts",
+      "image": "/images/research/research-1.jpg"
+    },
+    {
+      "title": "Precision Genetics & Multi-Omics",
+      "description": "Unlocking Biological Insights Through Genomic and Multi-Omic Profiling",
+      "image": "/images/research/research-2.jpg"
+    }
+  ],
+  "labNews": [
+    "Francesca Zanoni presents \"Genetic Determinants of Kidney Transplant Outcomes: A Large-Scale Multi-Ancestry GWAS Meta-Analysis\" at the World Transplant Congress, August 2025.",
+    "Kiana Moi will present \"Comprehensive Long-Read Whole Genome Sequencing in 7 Human Xenotransplant Recipients\" at the WTC 2025.",
+    "Mercy Robert Williams will present \"Urinary Single-Cell RNA Sequencing from a Pig Kidney to Living Human Xenotransplantation Reveals Dynamic Cellular Changes\" at the WTC 2025.",
+    "Qian Guo will present \"Longitudinal Multi-Omics Profiling Reveals Molecular Responses in a Living Human Receiving a Gene-Edited Pig Kidney Xenograft\" at the WTC 2025.",
+    "Qian Guo will present \"Large Scale Urinary Metabolomic Screening in the Prospective Multicenter VIRTUUS Children's Study\" at the WTC 2025.",
+    "Shreyas Joshi will present \"Longitudinal Analysis of Immune Responses in Porcine Kidney Transplant Recipients\" (poster) at the WTC 2025.",
+    "Brendan Keating will present \"Genetic and Other Recipient Factors Impacting Success in Transplantation\" at the WTC 2025.",
+    "Brendan Keating will present \"NK Cells in Human Decedent Model\" at the WTC 2025"
+  ],
+  "researchProjects": [
+    {
+      "title": "Organ Transplantation & Xenotransplantation - Improving Transplant Outcomes: From Allografts to Xenografts.",
+      "description": "Our lab is deeply committed to advancing the field of organ transplantation, focusing on both conventional allograft (human-to-human) procedures and the groundbreaking frontier of xenotransplantation (pig-to-human). A significant area of our research centers on kidney and heart xenotransplantation, where we meticulously analyze the complex immune responses and cellular dynamics in pig-to-human models. We employ longitudinal multi-omic profiling to uncover the molecular mechanisms of rejection and acceptance, aiming to develop novel strategies that enhance transplant success and to understand immunologic barriers in cross-species transplantation. Our work also extends to improving long-term human kidney allograft survival by exploring innovative approaches to HLA compatibility and the role of non-HLA genes.",
+      "image": "/images/research/research-1.jpg",
+      "link": "https://google.com/"
+    },
+    {
+      "title": "Precision Genetics & Multi-Omics - Unlocking Biological Insights Through Genomic and Multi-Omic Profiling",
+      "description": "At the core of our research is the application of advanced genomic and multi-omic technologies to unravel the genetic and molecular underpinnings of disease and transplant outcomes. We use comprehensive approaches such as whole genome sequencing for family-based rare variant association analysis, as exemplified by our studies in rare and common diseases impacting end-stage disease precipitating transplantation, to identify novel genetic determinants. Furthermore, our lab specializes in integrative multi-omics profiling, combining data from genomics, transcriptomics, proteomics, and metabolomics to provide a holistic view of biological systems. This allows us to gain unprecedented insights into the intricate molecular responses in various biological contexts, including the detailed analysis of host-graft interactions in transplantation.",
+      "image": "/images/research/research-2.jpg",
+      "link": "https://google.com/"
+    },
+    {
+      "title": "Immunogenetics & Transplant Compatibility - Optimizing Compatibility: Immunogenetics, Equity, and Rejection Pathology",
+      "description": "A critical aspect of successful transplantation lies in understanding and optimizing immunologic compatibility. Our lab investigates immunogenetics, particularly focusing on Human Leukocyte Antigen (HLA) matching and the implications of eplet mismatch for deceased-donor kidney allocation. We conduct crucial research into balancing equity and maximizing compatibility, addressing racial disparities in transplant access. Beyond compatibility, we delve into the immune response post-transplantation, conducting multimodal phenotyping studies to characterize early immune responses and rejection pathology in detail, including antibody-mediated injury. These efforts are aimed at developing targeted therapeutic interventions to overcome rejection and ensure the long-term viability of transplanted organs.",
+      "image": "/images/research/research-3.jpg",
+      "link": "https://google.com/"
+    }
+  ],
+  "latestResearch": [
+    {
+      "title": "Ongoing Study on [Topic]",
+      "description": "Current research exploring [specific aspect] with potential applications in [field]."
+    },
+    {
+      "title": "New Investigation in [Topic]",
+      "description": "Early-stage research on [specific aspect] to uncover [scientific question]."
+    },
+    {
+      "title": "Ongoing Study on [Topic]",
+      "description": "Current research exploring [specific aspect] with potential applications in [field]."
+    }
+  ],
+  "funding": [
+    {
+      "name": "NIAID",
+      "description": "NIAID conducts and supports basic and applied research to better understand, treat, and ultimately prevent infectious, immunologic, and allergic diseases. For more than 60 years, NIAID research has led to new therapies, vaccines, diagnostic tests, and other technologies that have improved the health of millions of people in the United States and around the world.",
+      "logo": "/images/funding/niah-logo.png",
+      "website": "https://www.niaid.nih.gov/"
+    },
+    {
+      "name": "Cardiovascular Research Center (CVRC)",
+      "description": "The mission of the Cardiovascular Research Center (CVRC), a part of NYU Langone’s Leon H. Charney Division of Cardiology, is to foster novel, interdisciplinary research in basic, translational, and clinical cardiovascular sciences. Our researchers are investigating cardiac development and diseases ranging from congenital conditions in children to acquired illness in adult patients such as congestive heart failure, arrhythmias, and atherosclerosis.",
+      "logo": "/images/funding/nyulhmc-logo.png",
+      "website": "https://med.nyu.edu/departments-institutes/medicine/divisions/cardiology/research/cardiovascular-research-center"
+    },
+    {
+      "name": "Department of Surgery at NYU Langone Health",
+      "description": "Our lab collaborates closely with the Department of Surgery at NYU Langone Health, a nationally recognized leader in surgical excellence and innovation. Together, we focus on advancing the science of transplantation through interdisciplinary research that bridges the clinic and the lab. NYU Langone’s transplant surgeons are not only at the forefront of complex organ transplantation but are also deeply committed to driving forward discoveries in immunology, organ preservation, and tissue regeneration. This partnership provides a unique environment where clinician–scientists and basic researchers work side by side to develop novel therapies that improve transplant outcomes and extend graft survival. Philanthropic support is critical to sustaining this work—enabling us to pursue high-risk, high-reward research, train future transplant researchers, and bring lifesaving innovations from bench to bedside.",
+      "logo": "/images/funding/nyulhmc-logo.png",
+      "website": "https://med.nyu.edu/departments-institutes/surgery/"
+    }
+  ],
+  "collaborations": [
+    {
+      "name": "Brian D. Piening, PhD, Providence Health",
+      "description": "Dr. Piening is trained in genetics, genomics and bioinformatics. Along with leading the Cancer Immuno-Genomics Lab at the Earle A. Chiles Research Institute, a Providence Center of Excellence for immuno-oncology and cellular therapy, he also serves as program director of Providence Genomics. There, he uses comprehensive genomic profiling to develop personalized treatment plans for people with advanced cancer. The laboratory is one of only a handful in the world that performs whole genome sequencing in a clinical context and is the dedicated clinical sequencing facility for Providence.",
+      "logo": "/images/collaborations/providence-logo.png",
+      "link": "https://providence.elsevierpure.com/en/persons/brian-piening"
+    },
+    {
+      "name": "Mike Snyder, PhD, Stanford Medicine",
+      "description": "Snyder Lab was the first to perform a large-scale functional genomics project in any organism, and has developed many technologies in genomics and proteomics. These including the development of proteome chips, high resolution tiling arrays for the entire human genome, methods for global mapping of transcription factor binding sites (ChIP-chip now replaced by ChIP-seq), paired end sequencing for mapping of structural variation in eukaryotes, de novo genome sequencing of genomes using high throughput technologies and RNA-Seq. These technologies have been used for characterizing genomes, proteomes and regulatory networks.",
+      "logo": "/images/collaborations/stanfordmedicine-logo.png",
+      "link": "https://med.stanford.edu/content/sm/snyderlab.html/"
+    },
+    {
+      "name": "Jessica van Setten",
+      "description": "Jessica specializes in the complex genetics of cardiovascular diseases and traits, specifically cardiomyopathies, heart failure, heart transplantation, and ECG. She is leading multiple projects, supervising and mentoring multiple PhDs, PostDocs, and (under)graduate students.",
+      "logo": "/images/collaborations/umcutrecht-logo.png",
+      "link": "https://research.umcutrecht.nl/researchers/jessica-van-setten/"
+    },
+    {
+      "name": "iGeneTRAiN",
+      "description": "iGeneTRAiN aims to coordinate genetic and other patient biospecimen and clinical datasets, from sites across the world engaged in clinical and research transplant programs. We are well underway in generating massive, integrated datasets that will empower us to identify factors associated with transplant success. Relevant information includes data from clinical, genetic, protein, metabolite, and a range of other studies, including wearable devices.",
+      "logo": "/images/collaborations/igenetrain-logo.png",
+      "link": "https://igenetrain.org/"
+    }
+  ],
+  "publications": [
+    {
+      "citation": "Collins, K. E., Gilbert, E., Mauduit, V., Benson, K. A., Elhassan, E. A. E., O’Seaghdha, C., Hill, C., McKnight, A. J., Maxwell, A. P., van der Most, P. J., de Borst, M. H., Guan, W., Jacobson, P. A., Israni, A. K., Keating, B. J., Lord, G. M., Markkinen, S., Helanterä, I., Hyvärinen, K., … Conlon, P. J. (2025). Donor and Recipient Polygenic Risk Scores Influence Kidney Transplant Function. Transplant International, 38.",
+      "link": "https://doi.org/10.3389/ti.2025.14171"
+    },
+    {
+      "citation": "Collins, K. E., Gilbert, E., Mauduit, V., Gaheer, P., Elhassan, E. A. E., Benson, K. A., Osman, S. M., Hill, C., McKnight, A. J., Maxwell, A. P., van der Most, P. J., de Borst, M. H., Guan, W., Jacobson, P. A., Israni, A. K., Keating, B. J., Lord, G. M., Markkinen, S., Helanterä, I., … Conlon, P. J. (2025). Polygenic risk scores for eGFR are associated with age at kidney failure. Journal of Nephrology.",
+      "link": "https://doi.org/10.1007/s40620-025-02207-7"
+    },
+    {
+      "citation": "Zanoni, F., Obayemi, J. E., Gandla, D., Castellano, G., & Keating, B. J. (2025). Emerging role of genetics in kidney transplantation. Kidney International, 107(3), 424–433.",
+      "link": "https://doi.org/10.1016/j.kint.2024.09.026"
+    },
+    {
+      "citation": "Keating, B. J., Schmauch, E., Snyder, M. P., Motter, J. D., & Piening, B. D. (2025). Commentary: Molecular responses in pig heart to human xenotransplantation unveiled by longitudinal multi‐omic profiling. Clinical and Translational Medicine, 15(1).",
+      "link": "https://doi.org/10.1002/ctm2.70132"
+    },
+    {
+      "citation": "Vanhoutte, T., Wellekens, K., Koshi, P., Callemeyn, J., Cleenders, E., Paglizazzi, A., Van Loon, E., Vaulet, T., Keating, B., Koenig, A., Thaunat, O., Böhmig, G., Coemans, M., Kuypers, D., & Naesens, M. (2025). FCGR3AF158V Genotype Accelerates Progression to Chronic Alloimmune Injury in Antibody-Mediated Kidney Transplant Rejection: A Population-Based Cohort Study. Cold Spring Harbor Laboratory.",
+      "link": "https://doi.org/10.1101/2025.05.09.25327308"
+    },
+    {
+      "citation": "Keating, B. J. (2024). GenCOLT: a multicenter European biobank for investigating genome-wide determinants of lung transplant outcomes. European Journal of Human Genetics, 33(3), 261–262.",
+      "link": "https://doi.org/10.1038/s41431-024-01712-w"
+    },
+    {
+      "citation": "Nieuwenhuis, L. M., Li, Y., Loza, B.-L., Lambeck, A. J. A., Hu, S., Gacesa, R., Voskuil, M. D., Hepkema, B. G., Jansen, B. H., Blokzijl, H., Verkade, H.-J., van den Heuvel, M. C., Asrani, S., Testa, G., Klintmalm, G., Trotter, J., Olthoff, K. M., Shaked, A., … de Meijer, V. E. (2024). Genome-wide meta-analysis associates donor-recipient non-HLA genetic mismatch with acute cellular rejection post-liver transplantation. Hepatology Communications, 9(1).",
+      "link": "https://doi.org/10.1097/hc9.0000000000000601"
+    },
+    {
+      "citation": "Mankowski, M. A., Gragert, L., Keating, B., Lonze, B. E., Segev, D. L., Montgomery, R., Gentry, S. E., & Mangiola, M. (2025). Balancing equity and human leukocyte antigen matching in deceased-donor kidney allocation with eplet mismatch. American Journal of Transplantation, 25(6), 1226–1234.",
+      "link": "https://doi.org/10.1016/j.ajt.2024.11.030"
+    },
+    {
+      "citation": "AMMAR, A., BUBSHAIT, D. K., AL OJAN, A., ALSHARI, S. A., CYRUS, C., ALANAZI, R., AL GHAMDI, M. A., KEATING, B. J., AL-ANAZI, A., AL QAHTANI, N. H., & AL-ALI, A. K. (2024). Family-base rare variant association analysis in Saudi Arabian hydrocephalus subjects using whole exome sequencing. Journal of Neurosurgical Sciences, 68(6).",
+      "link": "https://doi.org/10.23736/s0390-5616.23.06010-1"
+    },
+    {
+      "citation": "Mattoo, A., Jaffe, I. S., Keating, B., Montgomery, R. A., & Mangiola, M. (2024). Improving long-term kidney allograft survival by rethinking HLA compatibility: from molecular matching to non-HLA genes. Frontiers in Genetics, 15.",
+      "link": "https://doi.org/10.3389/fgene.2024.1442018"
+    },
+    {
+      "citation": "Shaked, O., Loza, B.-L., Olthoff, K. M., Reddy, K. R., Keating, B. J., Testa, G., Asrani, S. K., & Shaked, A. (2024). Donor and recipient genetics: Implications for the development of posttransplant diabetes mellitus. American Journal of Transplantation, 24(10), 1794–1802.",
+      "link": "https://doi.org/10.1016/j.ajt.2024.05.014"
+    },
+    {
+      "citation": "Pan, W., Zhang, W., Zheng, B., Camellato, B. R., Stern, J., Lin, Z., Khodadadi-Jamayran, A., Kim, J., Sommer, P., Khalil, K., Weldon, E., Bai, J., Zhu, Y., Meyn, P., Heguy, A., Mangiola, M., Griesemer, A., Keating, B. J., Montgomery, R. A., … Boeke, J. D. (2024). Cellular dynamics in pig-to-human kidney xenotransplantation. Med, 5(8), 1016-1029.e4.",
+      "link": "https://doi.org/10.1016/j.medj.2024.05.003"
+    },
+    {
+      "citation": "Collins, K. E., Gilbert, E., Mauduit, V., Benson, K. A., Elhassan, E. A. E., O’Seaghdha, C., Hill, C., McKnight, A. J., Maxwell, A. P., van der Most, P. J., de Borst, M. H., Guan, W., Jacobson, P. A., Israni, A. K., Keating, B. J., Lord, G. M., Markkinen, S., Helanterä, I., Hyvärinen, K., … Conlon, P. J. (2024). Donor genetic burden for cerebrovascular risk and kidney transplant outcome. Journal of Nephrology, 37(6), 1643–1652.",
+      "link": "https://doi.org/10.1007/s40620-024-01973-0"
+    },
+    {
+      "citation": "Zanoni, F., Neugut, Y. D., Obayemi, J. E., Liu, L., Zhang, J. Y., Ratner, L. E., Cohen, D. J., Mohan, S., Gharavi, A. G., Keating, B., & Kiryluk, K. (2024). Genetic versus self-reported African ancestry of the recipient and neighborhood predictors of kidney transplantation outcomes in 2 multiethnic urban cohorts. American Journal of Transplantation, 24(6), 1003–1015.",
+      "link": "https://doi.org/10.1016/j.ajt.2024.01.033/"
+    },
+    {
+      "citation": "Zanoni, F., Neugut, Y. D., Obayemi, J. E., Liu, L., Zhang, J. Y., Ratner, L. E., Cohen, D. J., Mohan, S., Gharavi, A. G., Keating, B., & Kiryluk, K. (2024). Genetic versus self-reported African ancestry of the recipient and neighborhood predictors of kidney transplantation outcomes in 2 multiethnic urban cohorts. American Journal of Transplantation, 24(6), 1003–1015.",
+      "link": "https://doi.org/10.1016/j.ajt.2024.01.033"
+    },
+    {
+      "citation": "Schmauch, E., Piening, B., Mohebnasab, M., Xia, B., Zhu, C., Stern, J., Zhang, W., Dowdell, A. K., Kim, J. I., Andrijevic, D., Khalil, K., Jaffe, I. S., Loza, B.-L., Gragert, L., Camellato, B. R., Oliveira, M. F., O’Brien, D. P., Chen, H. M., Weldon, E., … Keating, B. J. (2024). Integrative multi-omics profiling in human decedents receiving pig heart xenografts. Nature Medicine, 30(5), 1448–1460.",
+      "link": "https://doi.org/10.1038/s41591-024-02972-1"
+    },
+    {
+      "citation": "Al-Ali, A. K., Al-Rubaish, A. M., Alali, R. A., Almansori, M. S., Al-Jumaan, M. A., Alshehri, A. M., Al-Madan, M. S., Vatte, C., Cherlin, T., Young, S., Verma, S. S., Morahan, G., Koeleman, B. P. C., & Keating, B. J. (2023). Uncovering myocardial infarction genetic signatures using GWAS exploration in Saudi and European cohorts. Scientific Reports, 13(1).",
+      "link": "https://doi.org/10.1038/s41598-023-49105-1"
+    },
+    {
+      "citation": "Keating, B., Montgomery, R., Schmauch, E., Piening, B., & Snyder, M. (2023). Applying integrative multiomic profiling in two human decedents receiving pig heart xenografts reveals early immune cell responses indicative of perioperative cardiac xenograft dysfunction. Korean Journal of Transplantation, 37(1), S193–S193.",
+      "link": "https://doi.org/10.4285/atw2023.f-7778"
+    },
+    {
+      "citation": "Loupy, A., Goutaudier, V., Giarraputo, A., Mezine, F., Morgand, E., Robin, B., Khalil, K., Mehta, S., Keating, B., Dandro, A., Certain, A., Tharaux, P.-L., Narula, N., Tissier, R., Giraud, S., Hauet, T., Pass, H. I., Sannier, A., Wu, M., … Montgomery, R. A. (2023). Immune response after pig-to-human kidney xenotransplantation: a multimodal phenotyping study. The Lancet, 402(10408), 1158–1169.",
+      "link": "https://doi.org/10.1016/s0140-6736(23)01349-1"
+    },
+    {
+      "citation": "Romero, E., Tabak, E., Fishbein, G., Litovsky, S., Tallaj, J., Liem, D., Bakir, M., Khachatoorian, Y., Piening, B., Keating, B., Deng, M., & Cadeiras, M. (2023). Unsupervised mRNA-seq classification of heart transplant endomyocardial biopsies. Clinical Transplantation.",
+      "link": "https://doi.org/10.1111/ctr.15011"
+    },
+    {
+      "citation": "Moazami, N., Stern, J. M., Khalil, K., Kim, J. I., Narula, N., Mangiola, M., Weldon, E. P., Kagermazova, L., James, L., Lawson, N., Piper, G. L., Sommer, P. M., Reyentovich, A., Bamira, D., Saraon, T., Kadosh, B. S., DiVita, M., Goldberg, R. I., Hussain, S. T., … Montgomery, R. A. (2023). Pig-to-human heart xenotransplantation in two recently deceased human recipients. Nature Medicine, 29(8), 1989–1997.",
+      "link": "https://doi.org/10.1038/s41591-023-02471-9"
+    },
+    {
+      "citation": "Alsulaiman, R. M., Al-Quorain, A. A., Al-Muhanna, F. A., Piotrowski, S., Kurdi, E. A., Vatte, C., Alquorain, A. A., Alfaraj, N. H., Alrezuk, A. M., Robinson, F., Dowdell, A. K., Alamri, T. A., Hamilton, L., Lad, H., Gao, H., Gandla, D., Keating, B. J., Meng, R., Piening, B., & Al-Ali, A. K. (2023). Gut microbiota analyses of inflammatory bowel diseases from a representative Saudi population. BMC Gastroenterology, 23(1).",
+      "link": "https://doi.org/10.1186/s12876-023-02904-2"
+    },
+    {
+      "citation": "Schmauch, E., Piening, B., Xia, B., Zhu, C., Stern, J., Zhang, W., Dowdell, A., Loza, B.-L., Mohebnasab, M., Gragert, L., Khalil, K., Camellato, B., de Oliveira, M. F., O’Brien, D., Weldon, E., Lin, X., Gao, H., Kagermazova, L., Kim, J., … Keating, B. J. (2023). Integrative Multi-omic Profiling of Two Human Decedents Receiving Pig Heart Xenografts Reveals Strong Perturbations in Early Immune-Cell and Cellular Metabolism Responses. Cold Spring Harbor Laboratory.",
+      "link": "https://doi.org/10.1101/2023.06.05.543406"
+    },
+    {
+      "citation": "Shaked, A., Loza, B.-L., Van Loon, E., Olthoff, K. M., Guan, W., Jacobson, P. A., Zhu, A., Fishman, C. E., Gao, H., Oetting, W. S., Israni, A. K., Testa, G., Trotter, J., Klintmalm, G., Naesens, M., Asrani, S. K., & Keating, B. J. (2022). Donor and recipient polygenic risk scores influence the risk of post-transplant diabetes. Nature Medicine, 28(5), 999–1005.",
+      "link": "https://doi.org/10.1038/s41591-022-01758-7"
+    },
+    {
+      "citation": "Alkhamis, F. A., Alabdali, M. M., Alsulaiman, A. A., Alamri, A. S., Alali, R., Akhtar, M. S., Alsalman, S. A., Cyrus, C., Albakr, A. I., Alduhalan, A. S., Gandla, D., Al-Romaih, K., Abouelhoda, M., Loza, B.-L., Keating, B., & Al-Ali, A. K. (2023). Whole-exome sequencing analyses in a Saudi Ischemic Stroke Cohort reveal association signals, and shows polygenic risk scores are related to Modified Rankin Scale Risk. Functional & Integrative Genomics, 23(2).",
+      "link": "https://doi.org/10.1007/s10142-023-01039-7"
+    },
+    {
+      "citation": "Xiao, B., Velez Edwards, D. R., Lucas, A., Drivas, T., Gray, K., Keating, B., Weng, C., Jarvik, G. P., Hakonarson, H., Kottyan, L., Elhadad, N., Wei, W., Luo, Y., Kim, D., Ritchie, M., Verma, S. S., Abecasis, G., Baras, A., Cantor, M., … Rana, N. (2023). Inference of Causal Relationships Between Genetic Risk Factors for Cardiometabolic Phenotypes and Female-Specific Health Conditions. Journal of the American Heart Association, 12(5).",
+      "link": "https://doi.org/10.1161/jaha.121.026561"
+    },
+    {
+      "citation": "Abumadini, M. S., Al Ghamdi, K. S., Alqahtani, A. H., Almedallah, D. K., Callans, L., Jarad, J. A., Cyrus, C., Koeleman, B. P. C., Keating, B. J., Pankratz, N., & Al-Ali, A. K. (2023). Genome-wide copy number variant screening of Saudi schizophrenia patients reveals larger deletions in cases versus controls. Frontiers in Molecular Neuroscience, 16.",
+      "link": "https://doi.org/10.3389/fnmol.2023.1069375"
+    },
+    {
+      "citation": "Alasiri, A., Karczewski, K. J., Cole, B., Loza, B.-L., Moore, J. H., van der Laan, S. W., Asselbergs, F. W., Keating, B. J., & van Setten, J. (2023). LoFTK: a framework for fully automated calculation of predicted Loss-of-Function variants and genes. BioData Mining, 16(1).",
+      "link": "https://doi.org/10.1186/s13040-023-00321-5"
+    },
+    {
+      "citation": "Al Anazi, A. H., Ammar, A. S., Al-Hajj, M., Cyrus, C., Aljaafari, D., Khoda, I., Abdelfatah, A. K., Alsulaiman, A. A., Alanazi, F., Alanazi, R., Gandla, D., Lad, H., Barayan, S., Keating, B. J., & Al-Ali, A. K. (2022). Whole-exome sequencing of a Saudi epilepsy cohort reveals association signals in known and potentially novel loci. Human Genomics, 16(1).",
+      "link": "https://doi.org/10.1186/s40246-022-00444-6"
+    },
+    {
+      "citation": "Al-Muhanna, F. A., Dowdell, A. K., Al Eleq, A. H., Albaker, W. I., Brooks, A. W., Al-Sultan, A. I., Al-Rubaish, A. M., Alkharsah, K. R., Sulaiman, R. M., Al-Quorain, A. A., Cyrus, C., Alali, R. A., Vatte, C., Robinson, F. L., Zhou, X., Snyder, M. P., Almuhanna, A. F., Keating, B. J., Piening, B. D., & Al-Ali, A. K. (2022). Gut microbiota analyses of Saudi populations for type 2 diabetes-related phenotypes reveals significant association. BMC Microbiology, 22(1).",
+      "link": "https://doi.org/10.1186/s12866-022-02714-8"
+    },
+    {
+      "citation": "Obayemi, J., Keating, B., Callans, L., Lentine, K. L., Schnitzler, M. A., Caliskan, Y., Xiao, H., Dharnidharka, V. R., Mannon, R. B., & Axelrod, D. A. (2022). Impact of CYP3A5 Status on the Clinical and Financial Outcomes Among African American Kidney Transplant Recipients. Transplantation Direct, 8(10), e1379.",
+      "link": "https://doi.org/10.1097/txd.0000000000001379"
+    },
+    {
+      "citation": "Shaked, A., Loza, B., Olthoff, K., & Keating, B. (2022). Testing the application of polygenic risk scores in the transplant setting – Relevance for precision medicine. Clinical and Translational Medicine, 12(8).",
+      "link": "https://doi.org/10.1002/ctm2.1009"
+    },
+    {
+      "citation": "Piening, B. D., Dowdell, A. K., Zhang, M., Loza, B.-L., Walls, D., Gao, H., Mohebnasab, M., Li, Y. R., Elftmann, E., Wei, E., Gandla, D., Lad, H., Chaib, H., Sweitzer, N. K., Deng, M., Pereira, A. C., Cadeiras, M., Shaked, A., Snyder, M. P., & Keating, B. J. (2022). Whole transcriptome profiling of prospective endomyocardial biopsies reveals prognostic and diagnostic signatures of cardiac allograft rejection. The Journal of Heart and Lung Transplantation, 41(6), 840–848.",
+      "link": "https://doi.org/10.1016/j.healun.2022.01.1377"
+    },
+    {
+      "citation": "Montgomery, R. A., Stern, J. M., Lonze, B. E., Tatapudi, V. S., Mangiola, M., Wu, M., Weldon, E., Lawson, N., Deterville, C., Dieter, R. A., Sullivan, B., Boulton, G., Parent, B., Piper, G., Sommer, P., Cawthon, S., Duggan, E., Ayares, D., Dandro, A., … Stewart, Z. A. (2022). Results of Two Cases of Pig-to-Human Kidney Xenotransplantation. New England Journal of Medicine, 386(20), 1889–1898.",
+      "link": "https://doi.org/10.1056/nejmoa2120238"
+    },
+    {
+      "citation": "Li, Y., Nieuwenhuis, L. M., Keating, B. J., Festen, E. A. M., & de Meijer, V. E. (2021). The Impact of Donor and Recipient Genetic Variation on Outcomes After Solid Organ Transplantation: A Scoping Review and Future Perspectives. Transplantation, 106(8), 1548–1557.",
+      "link": "https://doi.org/10.1097/tp.0000000000004042"
+    },
+    {
+      "citation": "Xiao, B., Velez Edwards, D. R., Lucas, A., Drivas, T., Gray, K., Keating, B., Weng, C., Jarvik, G. P., Hakonarson, H., Kottyan, L., Elhadad, N., Wei, W.-Q., Luo, Y., Kim, D., Ritchie, M., & Verma, S. S. (2022). Inference of causal relationships based on the genetics of cardiometabolic traits and conditions unique to females in >50,000 participants. Cold Spring Harbor Laboratory.",
+      "link": "https://doi.org/10.1101/2022.02.02.22269844"
+    },
+    {
+      "citation": "Kumar, J., Contrepois, K., Snyder, M., Grimm, P. C., Moudgil, A., Smith, J. M., Bobrowski, A. E., Verghese, P. S., Hooper, D., Ingulli, E., Lestz, R., Weng, P., Reason, J. L., Blydt-Hansen, T. D., Suthanthiran, M., Keating, B., & Amaral, S. (2021). Design and Methods of the Validating Injury to the Renal Transplant Using Urinary Signatures (VIRTUUS) Study in Children. Transplantation Direct, 7(12), e791.",
+      "link": "https://doi.org/10.1097/txd.0000000000001244"
+    },
+    {
+      "citation": "Shaked, A., Loza, B.-L., Loon, E., Olthoff, K., Guan, W., Jacobson, P., Oetting, W., Israni, A., Fishman, C., Testa, G., Trotter, J., Klintmalm, G., Naesens, M., Asrani, S., & Keating, B. (2021). The Impact of Transplant Recipient and Donor Organ Type 2 Diabetes Polygenic Risk Scores on the Development of Early Post-Transplant Diabetes. Springer Science and Business Media LLC.",
+      "link": "https://doi.org/10.21203/rs.3.rs-798458/v1"
+    },
+    {
+      "citation": "Alnafie, A. N., Alateeq, S. A., Al-Muhanna, F. A., Alsulaiman, A. M., Alfarhan, M., Buali, W., Vatte, C. B., Cyrus, C., Keating, B., Al-Ali, A. K., & Steinberg, M. H. (2021). Exome sequencing in high and low fetal haemoglobin Arab–Indian haplotype sickle cell disease. British Journal of Haematology, 194(2).",
+      "link": "https://doi.org/10.1111/bjh.17542"
+    },
+    {
+      "citation": "Keating, B. J., Mukhtar, E. H., Elftmann, E. D., Eweje, F. R., Gao, H., Ibrahim, L. I., Kathawate, R. G., Lee, A. C., Li, E. H., Moore, K. A., Nair, N., Chaluvadi, V., Reason, J., Zanoni, F., Honkala, A. T., Al-Ali, A. K., Abdullah Alrubaish, F., Ahmad Al-Mozaini, M., Al-Muhanna, F. A., … Snyder, M. P. (2021). Early detection of SARS-CoV-2 and other infections in solid organ transplant recipients and household members using wearable devices. Transplant International, 34(6), 1019–1031.",
+      "link": "https://doi.org/10.1111/tri.13860"
+    },
+    {
+      "citation": "Corrigendum to: Genome-wide association analysis in dilated cardiomyopathy reveals two new players in systolic heart failure on chromosomes 3p25.1 and 22q11.23. (2021). European Heart Journal, 42(20), 2011–2011.",
+      "link": "https://doi.org/10.1093/eurheartj/ehab192"
+    },
+    {
+      "citation": "Graff, M., Justice, A. E., Young, K. L., Marouli, E., Zhang, X., Fine, R. S., Lim, E., Buchanan, V., Rand, K., Feitosa, M. F., Wojczynski, M. K., Yanek, L. R., Shao, Y., Rohde, R., Adeyemo, A. A., Aldrich, M. C., Allison, M. A., Ambrosone, C. B., Ambs, S., … North, K. E. (2021). Discovery and fine-mapping of height loci via high-density imputation of GWASs in individuals of African ancestry. The American Journal of Human Genetics, 108(4), 564–582.",
+      "link": "https://doi.org/10.1016/j.ajhg.2021.02.011"
+    },
+    {
+      "citation": "Khachatoorian, Y., Khachadourian, V., Chang, E., Sernas, E. R., Reed, E. F., Deng, M., Piening, B. D., Pereira, A. C., Keating, B., & Cadeiras, M. (2021). Noninvasive biomarkers for prediction and diagnosis of heart transplantation rejection. Transplantation Reviews, 35(1), 100590.",
+      "link": "https://doi.org/10.1016/j.trre.2020.100590"
+    },
+    {
+      "citation": "Gray, K., Kovacheva, V., Mirzakhani, H., Bjonnes, A., Almoguera, B., Wilson, M., Ingles, S., Lockwood, C., Hakonarson, H., McElrath, T., Murray, J., Norwitz, E., Karumanchi, S., Bateman, B., Keating, B., & Saxena, R. (2020). Risk of pre-eclampsia in patients with a maternal genetic predisposition to common medical conditions: a case–control study. BJOG: An International Journal of Obstetrics & Gynaecology, 128(1), 55–65.",
+      "link": "https://doi.org/10.1111/1471-0528.16441"
+    },
+    {
+      "citation": "Nguyen, T. T., Pearson, R. A., Mohamed, M. E., Schladt, D. P., Berglund, D., Rivers, Z., Skaar, D. J., Wu, B., Guan, W., Setten, J., Keating, B. J., Dorr, C., Remmel, R. P., Matas, A. J., Mannon, R. B., Israni, A. K., Oetting, W. S., & Jacobson, P. A. (2020). Pharmacogenomics in kidney transplant recipients and potential for integration into practice. Journal of Clinical Pharmacy and Therapeutics, 45(6), 1457–1465.",
+      "link": "https://doi.org/10.1111/jcpt.13223"
+    },
+    {
+      "citation": "Romero, E., Chang, E., Tabak, E., Pinheiro, D., Tallaj, J., Litovsky, S., Keating, B., Deng, M., & Cadeiras, M. (2020). Rejection-associated Mitochondrial Impairment After Heart Transplantation. Transplantation Direct, 6(11), e616.",
+      "link": "https://doi.org/10.1097/txd.0000000000001065"
+    },
+    {
+      "citation": "Arthur, V. L., Guan, W., Loza, B., Keating, B., & Chen, J. (2020). Joint testing of donor and recipient genetic matching scores and recipient genotype has robust power for finding genes associated with transplant outcomes. Genetic Epidemiology, 44(8), 893–907.",
+      "link": "https://doi.org/10.1002/gepi.22349"
+    },
+    {
+      "citation": "Zanoni, F., Neugut, Y. D., Mohan, S., Gharavi, A. G., Keating, B., & Kiryluk, K. (2020). Genetic vs. Self-Reported African Ancestry and Kidney Allograft Outcome: Analysis of Two Large Multiethnic Urban Transplant Cohorts. Journal of the American Society of Nephrology, 31(10S), 57–57.",
+      "link": "https://doi.org/10.1681/asn.20203110s157a"
+    },
+    {
+      "citation": "Kohut, T. J., Barandiaran, J. F., & Keating, B. J. (2020). Genomics and Liver Transplantation: Genomic Biomarkers for the Diagnosis of Acute Cellular Rejection. Liver Transplantation, 26(10), 1337–1350.",
+      "link": "https://doi.org/10.1002/lt.25812"
+    },
+    {
+      "citation": "Zhang, Z., Menon, M. C., Zhang, W., Stahl, E., Loza, B.-L., Rosales, I. A., Yi, Z., Banu, K., Garzon, F., Sun, Z., Wei, C., Huang, W., Lin, Q., Israni, A., Keating, B. J., Colvin, R. B., Hao, K., & Murphy, B. (2020). Genome-wide non-HLA donor-recipient genetic differences influence renal allograft survival via early allograft fibrosis. Kidney International, 98(3), 758–768.",
+      "link": "https://doi.org/10.1016/j.kint.2020.04.039"
+    },
+    {
+      "citation": "Stapleton, C. P., Chang, B., Keating, B. J., Conlon, P. J., & Cavalleri, G. L. (2020). Polygenic risk score of non-melanoma skin cancer predicts post-transplant skin cancer across multiple organ types. Clinical Transplantation, 34(8).",
+      "link": "https://doi.org/10.1111/ctr.13904"
+    },
+    {
+      "citation": "Gray, K. J., Kovacheva, V. P., Mirzakhani, H., Bjonnes, A. C., Almoguera, B., Wilson, M. L., Ingles, S. A., Lockwood, C. J., Hakonarson, H., McElrath, T. F., Murray, J. C., Norwitz, E. R., Karumanchi, S. A., Bateman, B. T., Keating, B. J., & Saxena, R. (2020). Risk of preeclampsia in patients with genetic predisposition to common medical conditions: a case-control study. Cold Spring Harbor Laboratory.",
+      "link": "https://doi.org/10.1101/2020.03.04.976472"
+    },
+    {
+      "citation": "Garnier, S., Harakalova, M., Weiss, S., Mokry, M., Regitz-Zagrosek, V., Hengstenberg, C., Cappola, T. P., Isnard, R., Arbustini, E., Cook, S. A., van Setten, J., Callis, J., Hakonarson, H., Morley, M. P., Stark, K., Prasad, S. K., Li, J., O’Regan, D. P., … Grasso, M. (2020). Genome wide association analysis in dilated cardiomyopathy reveals two new key players in systolic heart failure on chromosome 3p25.1 and 22q11.23. Cold Spring Harbor Laboratory.",
+      "link": "https://doi.org/10.1101/2020.02.28.969147"
+    },
+    {
+      "citation": "Li, Y. R., Glessner, J. T., Coe, B. P., Li, J., Mohebnasab, M., Chang, X., Connolly, J., Kao, C., Wei, Z., Bradfield, J., Kim, C., Hou, C., Khan, M., Mentch, F., Qiu, H., Bakay, M., Cardinale, C., Lemma, M., Abrams, D., … Hakonarson, H. (2020). Rare copy number variants in over 100,000 European ancestry subjects reveal multiple disease associations. Nature Communications, 11(1).",
+      "link": "https://doi.org/10.1038/s41467-019-13624-1"
+    },
+    {
+      "citation": "Kohut, T. J., Barandiaran, J. F., & Keating, B. J. (2020). Genomics and Liver Transplantation: Genomic Biomarkers for the Diagnosis of Acute Cellular Rejection. Liver Transplantation, 26(10), 1337–1350.",
+      "link": "https://doi.org/10.1002/lt.25812"
+    },
+    {
+      "citation": "Gray, K., Kovacheva, V., Mirzakhani, H., Bjonnes, A., Almoguera, B., Wilson, M., Ingles, S., Lockwood, C., Hakonarson, H., McElrath, T., Murray, J., Norwitz, E., Karumanchi, S., Bateman, B., Keating, B., & Saxena, R. (2020). Risk of pre‐eclampsia in patients with a maternal genetic predisposition to common medical conditions: a case–control study. BJOG: An International Journal of Obstetrics & Gynaecology, 128(1), 55–65.",
+      "link": "https://doi.org/10.1111/1471-0528.16441"
+    },
+    {
+      "citation": "Schmidt, A. F., Holmes, M. V., Preiss, D., Swerdlow, D. I., Denaxas, S., Fatemifar, G., Faraway, R., Finan, C., Valentine, D., Fairhurst-Hunter, Z., Hartwig, F. P., Horta, B. L., Hypponen, E., Power, C., Moldovan, M., van Iperen, E., … Hingorani, A. D. (2019). Phenome-wide association analysis of LDL-cholesterol lowering genetic variants in PCSK9. BMC Cardiovascular Disorders, 19(1).",
+      "link": "https://doi.org/10.1186/s12872-019-1187-z"
+    },
+    {
+      "citation": "Fishman, C. E., Mohebnasab, M., van Setten, J., Zanoni, F., Wang, C., Deaglio, S., Amoroso, A., Callans, L., van Gelder, T., Lee, S., Kiryluk, K., Lanktree, M. B., & Keating, B. J. (2019). Genome-Wide Study Updates in the International Genetics and Translational Research in Transplantation Network (iGeneTRAiN). Frontiers in Genetics, 10.",
+      "link": "https://doi.org/10.3389/fgene.2019.01084"
+    },
+    {
+      "citation": "Mohebnasab, M., Eriksson, O., Persson, B., Sandholm, K., Mohlin, C., Huber-Lang, M., Keating, B. J., Ekdahl, K. N., & Nilsson, B. (2019). Current and Future Approaches for Monitoring Responses to Anti-complement Therapeutics. Frontiers in Immunology, 10.",
+      "link": "https://doi.org/10.3389/fimmu.2019.02539"
+    },
+    {
+      "citation": "Reindl-Schwaighofer, R., Heinzel, A., Kainz, A., van Setten, J., Jelencsics, K., Hu, K., Loza, B.-L., Kammer, M., Heinze, G., Hruba, P., Koňaříková, A., Viklicky, O., Boehmig, G. A., Eskandary, F., Fischer, G., Claas, F., Tan, J. C., Albert, T. J., Patel, J., … Oberbauer, R. (2019). Contribution of non-HLA incompatibility between donor and recipient to kidney allograft survival: genome-wide analysis in a prospective cohort. The Lancet, 393(10174), 910–917.",
+      "link": "https://doi.org/10.1016/s0140-6736(18)32473-5"
+    },
+    {
+      "citation": "Mohamed, M. E., Schladt, D. P., Guan, W., Wu, B., van Setten, J., Keating, B. J., Iklé, D., Remmel, R. P., Dorr, C. R., Mannon, R. B., Matas, A. J., Israni, A. K., Oetting, W. S., & Jacobson, P. A. (2019). Tacrolimus troughs and genetic determinants of metabolism in kidney transplant recipients: A comparison of four ancestry groups. American Journal of Transplantation, 19(10), 2795–2804.",
+      "link": "https://doi.org/10.1111/ajt.15385"
+    },
+    {
+      "citation": "Zouk, H., Venner, E., Lennon, N. J., Muzny, D. M., Abrams, D., Adunyah, S., Albertson-Junkans, L., Ames, D. C., Appelbaum, P., Aronson, S., Aufox, S., Babb, L. J., Balasubramanian, A., Bangash, H., Basford, M., Bastarache, L., Baxter, S., Behr, M., Benoit, B., … Gibbs, R. A. (2019). Harmonizing Clinical Sequencing and Interpretation for the eMERGE III Network. The American Journal of Human Genetics, 105(3), 588–605.",
+      "link": "https://doi.org/10.1016/j.ajhg.2019.07.018"
+    },
+    {
+      "citation": "Stapleton, C. P., Heinzel, A., Guan, W., van der Most, P. J., van Setten, J., Lord, G. M., Keating, B. J., Israni, A. K., de Borst, M. H., Bakker, S. J. L., Snieder, H., Weale, M. E., Delaney, F., Hernandez-Fuentes, M. P., Reindl-Schwaighofer, R., Oberbauer, R., Jacobson, P. A., Mark, P. B., Chapman, F. A., … Conlon, P. J. (2019). The impact of donor and recipient common clinical and genetic variation on estimated glomerular filtration rate in a European renal transplant population. American Journal of Transplantation, 19(8), 2262–2273.",
+      "link": "https://doi.org/10.1111/ajt.15326"
+    },
+    {
+      "citation": "Oetting, W. S., Wu, B., Schladt, D. P., Guan, W., van Setten, J., Keating, B. J., Iklé, D., Remmel, R. P., Dorr, C. R., Mannon, R. B., Matas, A. J., Israni, A. K., & Jacobson, P. A. (2019). Genetic Variants Associated With Immunosuppressant Pharmacokinetics and Adverse Effects in the DeKAF Genomics Genome-wide Association Studies. Transplantation, 103(6), 1131–1139.",
+      "link": "https://doi.org/10.1097/tp.0000000000002625"
+    },
+    {
+      "citation": "Mancinelli, J., Walls, D., Chang, B., Keating, B., Hoitet, M., & Shaked, A. (2019). 3421 Evaluation of novel biomarkers of hepatocellular carcinoma development and recurrence in liver transplant patients. Journal of Clinical and Translational Science, 3(s1), 143–144.",
+      "link": "https://doi.org/10.1017/cts.2019.326"
+    },
+    {
+      "citation": "Stapleton, C. P., Birdwell, K. A., McKnight, A. J., Maxwell, A. P., Mark, P. B., Sanders, M. L., Chapman, F. A., van Setten, J., Phelan, P. J., Kennedy, C., Jardine, A., Traynor, J. P., Keating, B., Conlon, P. J., & Cavalleri, G. L. (2019). Polygenic risk score as a determinant of risk of non-melanoma skin cancer in a European-descent renal transplant cohort. American Journal of Transplantation, 19(3), 801–810.",
+      "link": "https://doi.org/10.1111/ajt.15057"
+    },
+    {
+      "citation": "van Setten, J., Warmerdam, E. G., Groot, O. Q., de Jonge, N., Keating, B., & Asselbergs, F. W. (2019). Non-HLA Genetic Factors and Their Influence on Heart Transplant Outcomes: A Systematic Review. Transplantation Direct, 5(2), e422.",
+      "link": "https://doi.org/10.1097/txd.0000000000000859"
+    },
+    {
+      "citation": "Al-Muhanna, F. A., Al-Rubaish, A. M., Vatte, C., Mohiuddin, S. S., Cyrus, C., Ahmad, A., Shakil Akhtar, M., Albezra, M. A., Alali, R. A., Almuhanna, A. F., Huang, K., Wang, L., Al-Kuwaiti, F., Elsalamouni, T. S. A., Al Hwiesh, A., Huang, X., Keating, B., Li, J., Lanktree, M. B., & Al-Ali, A. K. (2019). Exome sequencing of Saudi Arabian patients with ADPKD. Renal Failure, 41(1), 842–849.",
+      "link": "https://doi.org/10.1080/0886022x.2019.1655453"
+    },
+    {
+      "citation": "Budde, M., Friedrichs, S., Alliey-Rodriguez, N., Ament, S., Badner, J. A., Berrettini, W. H., Bloss, C. S., Byerley, W., Cichon, S., Comes, A. L., Coryell, W., Craig, D. W., Degenhardt, F., Edenberg, H. J., Foroud, T., Forstner, A. J., Frank, J., Gershon, E. S., Goes, F. S., … Malzahn, D. (2019). Efficient region-based test strategy uncovers genetic risk factors for functional outcome in bipolar disorder. European Neuropsychopharmacology, 29(1), 156–170.",
+      "link": "https://doi.org/10.1016/j.euroneuro.2018.10.005"
+    },
+    {
+      "citation": "Guo, Y., Busch, M. P., Seielstad, M., Endres‐Dighe, S., Westhoff, C. M., Keating, B., Hoppe, C., Bordbar, A., Custer, B., Butterworth, A. S., Kanias, T., Mast, A. E., Kleinman, S., Lu, Y., & Page, G. P. (2018). Development and evaluation of a transfusion medicine genome wide genotyping array. Transfusion, 59(1), 101–111.",
+      "link": "https://doi.org/10.1111/trf.15012"
+    },
+    {
+      "citation": "Breuer, R., Mattheisen, M., Frank, J., Krumm, B., Treutlein, J., Kassem, L., Strohmaier, J., Herms, S., Mühleisen, T. W., Degenhardt, F., Cichon, S., Nöthen, M. M., Karypis, G., Kelsoe, J., Greenwood, T., Nievergelt, C., Shilling, P., Shekhtman, T., Edenberg, H., … Schulze, T. G. (2018). Detecting significant genotype–phenotype association rules in bipolar disorder: market research meets complex genetics. International Journal of Bipolar Disorders, 6(1).",
+      "link": "https://doi.org/10.1186/s40345-018-0132-x"
+    },
+    {
+      "citation": "Cyrus, C., Al-Mueilo, S., Vatte, C., Chathoth, S., Li, Y. R., Qutub, H., Al Ali, R., Al-Muhanna, F., Lanktree, M. B., Alkharsah, K. R., Al-Rubaish, A., Kim-Mozeleski, B., Keating, B., & Al Ali, A. (2018). Assessing known chronic kidney disease associated genetic variants in Saudi Arabian populations. BMC Nephrology, 19(1).",
+      "link": "https://doi.org/10.1186/s12882-018-0890-9"
+    },
+    {
+      "citation": "Gray, K. J., Kovacheva, V. P., Mirzakhani, H., Bjonnes, A. C., Almoguera, B., DeWan, A. T., Triche, E. W., Saftlas, A. F., Hoh, J., Bodian, D. L., Klein, E., Huddleston, K. C., Ingles, S. A., Lockwood, C. J., Hakonarson, H., McElrath, T. F., Murray, J. C., Wilson, M. L., Norwitz, E. R., … Saxena, R. (2018). Gene-Centric Analysis of Preeclampsia Identifies Maternal Association at PLEKHG1. Hypertension, 72(2), 408–416.",
+      "link": "https://doi.org/10.1161/hypertensionaha.117.10688"
+    },
+    {
+      "citation": "Israni, A. K., Jacobson, P. A., Guan, W., Dorr, C. R., van Setten, J., de Borst, M. H., Stapleton, C. P., Phelan, P. J., Conlon, P. J., Birdwell, K. A., Reindl-Schwaighofer, R., Heinzel, A., Bakker, S. J., Cavelleri, G., Oetting, W. S., Schladt, D. P., Kwok, P.-Y., Eikmans, M., Snieder, H., … Keating, B. (2018). Genome-Wide Association Meta-Analysis for Acute Rejection of Kidney Transplants. Transplantation, 102(Supplement 7), S27.",
+      "link": "https://doi.org/10.1097/01.tp.0000542576.73240.16"
+    },
+    {
+      "citation": "Zhu, A., Leto, A., Shaked, A., & Keating, B. (2018). Immunologic Monitoring to Personalize Immunosuppression After Liver Transplant. Gastroenterology Clinics of North America, 47(2), 281–296.",
+      "link": "https://doi.org/10.1016/j.gtc.2018.01.003"
+    },
+    {
+      "citation": "Snoek, R., van Setten, J., Keating, B. J., Israni, A. K., Jacobson, P. A., Oetting, W. S., Matas, A. J., Mannon, R. B., Zhang, Z., Zhang, W., Hao, K., Murphy, B., Reindl-Schwaighofer, R., Heinzl, A., Oberbauer, R., Viklicky, O., Conlon, P. J., Stapleton, C. P., Bakker, S. J. L., … van Eerde, A. M. (2018). NPHP1 (Nephrocystin-1) Gene Deletions Cause Adult-Onset ESRD. Journal of the American Society of Nephrology, 29(6), 1772–1779.",
+      "link": "https://doi.org/10.1681/asn.2017111200"
+    },
+    {
+      "citation": "Vaucher, J., Keating, B. J., Lasserre, A. M., Gan, W., Lyall, D. M., Ward, J., Smith, D. J., Pell, J. P., Sattar, N., Paré, G., & Holmes, M. V. (2017). Cannabis use and risk of schizophrenia: a Mendelian randomization study. Molecular Psychiatry, 23(5), 1287–1292.",
+      "link": "https://doi.org/10.1038/mp.2016.252"
+    },
+    {
+      "citation": "van Setten, J., de Jonge, N., Cole, B. S., Chang, B., Holmes, M. V., Baan, C. C., Manintveld, O. C., Peeters, A. M., Dominguez, F., Kush, K. K., Garcia-Pavia, P., Rossano, J. W., de Weger, R. A., Moore, J. H., Keating, B., & Asselbergs, F. W. (2018). The Role of Loss-of-Function Mutations on Development of Rejection After Heart Transplantation. The Journal of Heart and Lung Transplantation, 37(4), S324–S325.",
+      "link": "https://doi.org/10.1016/j.healun.2018.01.828"
+    },
+    {
+      "citation": "Ha, V., Keating, B., Arora, R., Tieu, T., Noori, A., Banfield, L., Beyene, J., Anand, S., & de Souza, R. (2018). Diet, Pre-eclampsia and Gestational Hypertension: A Systematic Review and Meta-Analysis of Prospective Cohort Studies and Randomized Controlled Trials. Canadian Journal of Cardiology, 34(4), e20.",
+      "link": "https://doi.org/10.1016/j.cjca.2018.01.083"
+    },
+    {
+      "citation": "Keating, B. J., Pereira, A. C., Snyder, M., & Piening, B. D. (2018). Applying genomics in heart transplantation. Transplant International, 31(3), 278–290.",
+      "link": "https://doi.org/10.1111/tri.13119"
+    },
+    {
+      "citation": "Raffield, L. M., Ellis, J., Olson, N. C., Duan, Q., Li, J., Durda, P., Pankratz, N., Keating, B. J., Wassel, C. L., Cushman, M., Wilson, J. G., Gross, M. D., Tracy, R. P., Rich, S. S., Reiner, A. P., Li, Y., Willis, M. S., Lange, E. M., & Lange, L. A. (2018). Genome-wide association study of homocysteine in African Americans from the Jackson Heart Study, the Multi-Ethnic Study of Atherosclerosis, and the Coronary Artery Risk in Young Adults study. Journal of Human Genetics, 63(3), 327–337.",
+      "link": "https://doi.org/10.1038/s10038-017-0384-9"
+    },
+    {
+      "citation": "Guo, Y., Hwang, L.-D., Li, J., Eades, J., Yu, C. W., Mansfield, C., Burdick-Will, A., Chang, X., Chen, Y., Duke, F. F., Zhang, J., Fakharzadeh, S., Fennessey, P., Keating, B. J., Jiang, H., Hakonarson, H., Reed, D. R., & Preti, G. (2017). Genetic analysis of impaired trimethylamine metabolism using whole exome sequencing. BMC Medical Genetics, 18(1).",
+      "link": "https://doi.org/10.1186/s12881-017-0369-8"
+    },
+    {
+      "citation": "Palmer, T. M., Holmes, M. V., Keating, B. J., & Sheehan, N. A. (2017). Correcting the Standard Errors of 2-Stage Residual Inclusion Estimators for Mendelian Randomization Studies. American Journal of Epidemiology, 186(9), 1104–1114.",
+      "link": "https://doi.org/10.1093/aje/kwx175"
+    },
+    {
+      "citation": "Gray, K. J., Kovacheva, V. P., Mirzakhani, H., Bjonnes, A. C., Almoguera, B., Wilson, M. L., Ingles, S. A., Lockwood, C. J., Hakonarson, H., McElrath, T. F., Murray, J. C., Norwitz, E. R., Karumanchi, S. A., Bateman, B. T., Keating, B. J., & Saxena, R. (2020). Risk of preeclampsia in patients with genetic predisposition to common medical conditions: a case-control study. Cold Spring Harbor Laboratory.",
+      "link": "https://doi.org/10.1101/2020.03.04.976472"
+    },
+    {
+      "citation": "Garnier, S., Harakalova, M., Weiss, S., Mokry, M., Regitz-Zagrosek, V., Hengstenberg, C., Cappola, T. P., Isnard, R., Arbustini, E., Cook, S. A., van Setten, J., Callis, J., Hakonarson, H., Morley, M. P., Stark, K., Prasad, S. K., Li, J., O’Regan, D. P., … Grasso, M. (2020). Genome wide association analysis in dilated cardiomyopathy reveals two new key players in systolic heart failure on chromosome 3p25.1 and 22q11.23. Cold Spring Harbor Laboratory.",
+      "link": "https://doi.org/10.1101/2020.02.28.969147"
+    },
+    {
+      "citation": "Li, Y. R., Glessner, J. T., Coe, B. P., Li, J., Mohebnasab, M., Chang, X., Connolly, J., Kao, C., Wei, Z., Bradfield, J., Kim, C., Hou, C., Khan, M., Mentch, F., Qiu, H., Bakay, M., Cardinale, C., Lemma, M., Abrams, D., … Hakonarson, H. (2020). Rare copy number variants in over 100,000 European ancestry subjects reveal multiple disease associations. Nature Communications, 11(1).",
+      "link": "https://doi.org/10.1038/s41467-019-13624-1"
+    },
+    {
+      "citation": "Kohut, T. J., Barandiaran, J. F., & Keating, B. J. (2020). Genomics and Liver Transplantation: Genomic Biomarkers for the Diagnosis of Acute Cellular Rejection. Liver Transplantation, 26(10), 1337–1350.",
+      "link": "https://doi.org/10.1002/lt.25812"
+    },
+    {
+      "citation": "Gray, K., Kovacheva, V., Mirzakhani, H., Bjonnes, A., Almoguera, B., Wilson, M., Ingles, S., Lockwood, C., Hakonarson, H., McElrath, T., Murray, J., Norwitz, E., Karumanchi, S., Bateman, B., Keating, B., & Saxena, R. (2020). Risk of pre‐eclampsia in patients with a maternal genetic predisposition to common medical conditions: a case–control study. BJOG: An International Journal of Obstetrics & Gynecology, 128(1), 55–65.",
+      "link": "https://doi.org/10.1111/1471-0528.16441"
+    },
+    {
+      "citation": "Schmidt, A. F., Holmes, M. V., Preiss, D., Swerdlow, D. I., Denaxas, S., Fatemifar, G., Faraway, R., Finan, C., Valentine, D., Fairhurst-Hunter, Z., Hartwig, F. P., Horta, B. L., Hypponen, E., Power, C., Moldovan, M., van Iperen, E., … Hingorani, A. D. (2019). Phenome-wide association analysis of LDL-cholesterol lowering genetic variants in PCSK9. BMC Cardiovascular Disorders, 19(1).",
+      "link": "https://doi.org/10.1186/s12872-018-0998-9"
+    },
+    {
+      "citation": "Fishman, C. E., Mohebnasab, M., van Setten, J., Zanoni, F., Wang, C., Deaglio, S., Amoroso, A., Callans, L., van Gelder, T., Lee, Kiryluk, S., Lanktree, M. B., & Keating, B. J. (2019). Genome-Wide Study Updates in the International Genetics and Translational Research in Transplantation Network (iGeneTRAiN). Frontiers in Genetics, 10.",
+      "link": "https://doi.org/10.3389/fgene.2019.01084"
+    },
+    {
+      "citation": "Mohebnasab, M., Eriksson, O., Persson, B., Sandholm, K., Mohlin, C., Huber-Lang, M., Keating, B. J., Ekdahl, K. N., & Nilsson, B. (2019). Current and Future Approaches for Monitoring Responses to Anti-complement Therapeutics. Frontiers in Immunology, 10.",
+      "link": "https://doi.org/10.3389/fimmu.2019.02539"
+    },
+    {
+      "citation": "Reindl-Schwaighofer, R., Heinzel, A., Kainz, A., van Setten, J., Jelencsics, K., Hu, K., Loza, B.-L., Kammer, M., Heinze, G., Hruba, P., Košková, A., Viklický, O., Boehmig, G. A., Eskandary, F., Fischer, G., Claas, F., Tan, J. C., Albert, T. J., Patel, J., … Oberbauer, R. (2019). Contribution of non-HLA incompatibility between donor and recipient to kidney allograft survival: genome-wide analysis in a prospective cohort. The Lancet, 393(10174), 910–917.",
+      "link": "https://doi.org/10.1016/S0140-6736(18)32473-5"
+    },
+    {
+      "citation": "Mohamed, M. E., Schladt, D. P., Guan, W., Wu, B., van Setten, J., Keating, B. J., Iklé, D., Remmel, R. P., Dorr, C. R., Mannon, R. B., Matas, A. J., Israni, A. K., Oetting, W. S., & Jacobson, P. A. (2019). Tacrolimus troughs and genetic determinants of metabolism in kidney transplant recipients: A comparison of four ancestry groups. American Journal of Transplantation, 19(10), 2795–2804.",
+      "link": "https://doi.org/10.1111/ajt.15385"
+    },
+    {
+      "citation": "Zouk, H., Venner, E., Lennon, Lennon, N. J., Muzny, D. M., Abrams, D., Adunyah, S., Albertson, L., Albertson-Junkans, L., Ames, Gibbs, R. A. (2019). Harmonizing Clinical Sequencing and Interpretation for the eMERGE III Network. The American Journal of Human Genetics, 105(3), 588–605.",
+      "link": "https://doi.org/10.1016/j.ajhg.2019.07.018"
+    },
+    {
+      "citation": "Stapleton, C. P., Heinzel, A., Guan, W., van der Most, P. J., van Setten, J., Lord, G. M., Keating, B. J., Israni, A. K., de Borst, M. H., Bakker, S. J. L., Snieder, H., Weale, M. E., Delaney, F., Hernandez-Fuentes, M. P., Reindl-Schwaighofer, R., Oberbauer, R., Jacobson, P. A., Mark, P. B., Chapman, F. A., … Conlon, P. J. (2019). The impact of donor and recipient common clinical and genetic variation on estimated glomerular filtration rate in a European renal transplant population. American Journal of Transplantation, 19(8), 2262–2273.",
+      "link": "https://doi.org/10.1111/ajt.15326"
+    },
+    {
+      "citation": "Oetting, W. S., Wu, B., Schladt, D. P., Guan, W., van Setten, J., Keating, B. J., Iklé, D., Remmel, R. P., Dorr, C. R., Mannon, R. B., Matas, A. J., Israni, A. K., & Jacobson, P. A. (2019). Genetic Variants Associated With Immunosuppressant Pharmacokinetics and Adverse Effects in the DeKAF Genomics Genome-wide Association Studies. Transplantation, 103(6), 1131–1139.",
+      "link": "https://doi.org/10.1097/tp.0000000000002625"
+    },
+    {
+      "citation": "Mancinelli, J., Walls, D., Chang, B., Keating, B., Hoitet, M., & Shaked, A. (2019). 3421 Evaluation of novel biomarkers of hepatocellular carcinoma development and recurrence in liver transplant patients. Journal of Clinical and Translational Science, 3(s1), 143–144.",
+      "link": "https://doi.org/10.1017/cts.2019.326"
+    },
+    {
+      "citation": "Stapleton, C. P., Birdwell, K. A., McKnight, A. J., Maxwell, A. P., Mark, P. B., Sanders, M. L., Chapman, F. A., van Setten, J., Phelan, P. J., Kennedy, C., Jardine, A., Traynor, J. P., Keating, B., Conlon, P. J., & Cavalleri, G. L. (2019). Polygenic risk score as a determinant of risk of non-melanoma skin cancer in a European-descent renal transplant cohort. American Journal of Transplantation, 19(3), 801–810.",
+      "link": "https://doi.org/10.1111/ajt.15057"
+    },
+    {
+      "citation": "van Setten, J., Warmerdam, E. G., Groot, O. Q., de Jonge, N., Keating, B., & Asselbergs, F. W. (2019). Non-HLA Genetic Factors and Their Influence on Heart Transplant Outcomes: A Systematic Review. Transplantation Direct, 5(2), e422.",
+      "link": "https://doi.org/10.1097/txd.0000000000000859"
+    },
+    {
+      "citation": "Al-Muhanna, F. A., Al-Rubaish, A. M., Vatte, C., Mohiuddin, S. S., Cyrus, C., Ahmad, A., Shakil Akhtar, M., Albezra, M. A., Alali, R. A., Almuhanna, A. F., Huang, K., Wang, L., Al-Kuwaiti, F., Elsalamouni, T. S. A., Al Hwiesh, A., Huang, X., Keating, B., Li, J., Lanktree, M. B., & Al-Ali, A. K. (2019). Exome sequencing of Saudi Arabian patients with ADPKD. Renal Failure, 41(1), 842–849.",
+      "link": "https://doi.org/10.1080/0886022x.2019.1655453"
+    },
+    {
+      "citation": "Budde, M., Friedrichs, S., Alliey-Rodriguez, N., Ament, S., Badner, J. A., Berrettini, W. H., Bloss, C. S., Byerley, W., Cichon, S., Comes, A. L., Coryell, W., Craig, D. W., Degenhardt, F., Edenberg, H. J., Foroud, T., Forstner, A. J., Frank, J., Gershon, E. S., Goes, F. S., … Malzahn, D. (2019). Efficient region-based test strategy uncovers genetic risk factors for functional outcome in bipolar disorder. European Neuropsychopharmacology, 29(1), 156–170.",
+      "link": "https://doi.org/10.1016/j.euroneuro.2018.10.005"
+    },
+    {
+      "citation": "Guo, Y., Busch, M. P., Seielstad, M., Endres‐Dighe, S., Westhoff, C. M., Keating, B., Hoppe, C., Bordbar, A., Custer, B., Butterworth, A. S., Kanias, T., Mast, A. E., Kleinman, S., Lu, Y., & Page, G. P. (2018). Development and evaluation of a transfusion medicine genome wide genotyping array. Transfusion, 59(1), 101–111.",
+      "link": "https://doi.org/10.1111/trf.15012"
+    },
+    {
+      "citation": "Breuer, R., Mattheisen, M., Frank, J., Krumm, B., Treutlein, J., Kassem, L., Strohmaier, J., Herms, S., Mühleisen, T. W., Degenhardt, F., Cichon, S., Nöthen, M. M., Karypis, G., Kelsoe, J., Greenwood, T., Nievergelt, C., Shilling, P., Shekhtman, T., Edenberg, H., … Schulze, T. G. (2018). Detecting significant genotype–phenotype association rules in bipolar disorder: market research meets complex genetics. International Journal of Bipolar Disorders, 6(1).",
+      "link": "https://doi.org/10.1186/s40345-018-0132-x"
+    },
+    {
+      "citation": "Cyrus, C., Al-Mueilo, S., Vatte, C., Chathoth, S., Li, Y. R., Qutub, H., Al Ali, R., Al-Muhanna, F., Lanktree, M. B., Alkharsah, K. R., Al-Rubaish, A., Kim-Mozeleski, B., Keating, B., & Al Ali, A. (2018). Assessing known chronic kidney disease associated genetic variants in Saudi Arabian populations. BMC Nephrology, 19(1).",
+      "link": "https://doi.org/10.1186/s12882-018-0890-9"
+    },
+    {
+      "citation": "Gray, K. J., Kovacheva, V. P., Mirzakhani, H., Bjonnes, A. C., Almoguera, B., DeWan, A. T., Triche, E. W., Saftlas, A. F., Hoh, J., Bodian, D. L., Klein, E., Huddleston, K. C., Ingles, S. A., Lockwood, C. J., Hakonarson, H., McElrath, T. F., Murray, J. C., Wilson, M. L., Norwitz, E. R., … Saxena, R. (2018). Gene-Centric Analysis of Preeclampsia Identifies Maternal Association at PLEKHG1. Hypertension, 72(2), 408–416.",
+      "link": "https://doi.org/10.1161/hypertensionaha.117.10688"
+    },
+    {
+      "citation": "Israni, A. K., Jacobson, P. A., Guan, W., Dorr, C. R., van Setten, J., de Borst, M. H., Stapleton, C. P., Phelan, P. J., Conlon, P. J., Birdwell, K. A., Reindl-Schwaighofer, R., Heinzel, A., Bakker, S. J., Cavelleri, G., Oetting, W. S., Schladt, D. P., Kwok, P.-Y., Eikmans, M., Snieder, H., … Keating, B. (2018). Genome-Wide Association Meta-Analysis for Acute Rejection of Kidney Transplants. Transplantation, 102(Supplement 7), S27.",
+      "link": "https://doi.org/10.1097/01.tp.0000542576.73240.16"
+    },
+    {
+      "citation": "Zhu, A., Leto, A., Shaked, A., & Keating, B. (2018). Immunologic Monitoring to Personalize Immunosuppression After Liver Transplant. Gastroenterology Clinics of North America, 47(2), 281–296.",
+      "link": "https://doi.org/10.1016/j.gtc.2018.01.003"
+    },
+    {
+      "citation": "Snoek, R., van Setten, J., Keating, B. J., Israni, A. K., Jacobson, P. A., Oetting, W. S., Matas, A. J., Mannon, R. B., Zhang, Z., Zhang, W., Hao, K., Murphy, B., Reindl-Schwaighofer, R., Heinzl, A., Oberbauer, R., Viklicky, O., Conlon, P. J., Stapleton, C. P., Bakker, S. J. L., … van Eerde, A. M. (2018). NPHP1 (Nephrocystin-1) Gene Deletions Cause Adult-Onset ESRD. Journal of the American Society of Nephrology, 29(6), 1772–1779.",
+      "link": "https://doi.org/10.1681/asn.2017111200"
+    },
+    {
+      "citation": "Vaucher, J., Keating, B. J., Lasserre, A. M., Gan, W., Lyall, D. M., Ward, J., Smith, D. J., Pell, J. P., Sattar, N., Paré, G., & Holmes, M. V. (2017). Cannabis use and risk of schizophrenia: a Mendelian randomization study. Molecular Psychiatry, 23(5), 1287–1292.",
+      "link": "https://doi.org/10.1038/mp.2016.252"
+    },
+    {
+      "citation": "van Setten, J., de Jonge, N., Cole, B. S., Chang, B., Holmes, M. V., Baan, C. C., Manintveld, O. C., Peeters, A. M., Dominguez, F., Kush, K. K., Garcia-Pavia, P., Rossano, J. W., de Weger, R. A., Moore, J. H., Keating, B., & Asselbergs, F. W. (2018). The Role of Loss-of-Function Mutations on Development of Rejection After Heart Transplantation. The Journal of Heart and Lung Transplantation, 37(4), S324–S325.",
+      "link": "https://doi.org/10.1016/j.healun.2018.01.828"
+    },
+    {
+      "citation": "Ha, V., Keating, B., Arora, R., Tieu, T., Noori, A., Banfield, L., Beyene, J., Anand, S., & de Souza, R. (2018). Diet, Pre-eclampsia and Gestational Hypertension: A Systematic Review and Meta-Analysis of Prospective Cohort Studies and Randomized Controlled Trials. Canadian Journal of Cardiology, 34(4), e20.",
+      "link": "https://doi.org/10.1016/j.cjca.2018.01.083"
+    },
+    {
+      "citation": "Keating, B. J., Pereira, A. C., Snyder, M., & Piening, B. D. (2018). Applying genomics in heart transplantation. Transplant International, 31(3), 278–290.",
+      "link": "https://doi.org/10.1111/tri.13119"
+    },
+    {
+      "citation": "Raffield, L. M., Ellis, J., Olson, N. C., Duan, Q., Li, J., Durda, P., Pankratz, N., Keating, B. J., Wassel, C. L., Cushman, M., Wilson, J. G., Gross, M. D., Tracy, R. P., Rich, S. S., Reiner, A. P., Li, Y., Willis, M. S., Lange, E. M., & Lange, L. A. (2018). Genome-wide association study of homocysteine in African Americans from the Jackson Heart Study, the Multi-Ethnic Study of Atherosclerosis, and the Coronary Artery Risk in Young Adults study. Journal of Human Genetics, 63(3), 327–337.",
+      "link": "https://doi.org/10.1038/s10038-017-0384-9"
+    },
+    {
+      "citation": "Guo, Y., Busch, M. P., Seielstad, M., Endres‐Dighe, S., Westhoff, C. M., Keating, B., Hoppe, C., Bordbar, A., Custer, B., Butterworth, A. S., Kanias, T., Mast, A. E., Kleinman, S., Lu, Y., & Page, G. P. (2018). Development and evaluation of a transfusion medicine genome wide genotyping array. Transfusion, 59(1), 101–111.",
+      "link": "https://doi.org/10.1111/trf.15012"
+    },
+    {
+      "citation": "Guo, Y., Hwang, L.-D., Li, J., Eades, J., Yu, C. W., Mansfield, C., Burdick-Will, A., Chang, X., Chen, Y., Duke, F. F., Zhang, J., Fakharzadeh, S., Fennessey, P., Keating, B. J., Jiang, H., Hakonarson, H., Reed, D. R., & Preti, G. (2017). Genetic analysis of impaired trimethylamine metabolism using whole exome sequencing. BMC Medical Genetics, 18(1).",
+      "link": "https://doi.org/10.1186/s12881-017-0369-8"
+    },
+    {
+      "citation": "Palmer, T. M., Holmes, M. V., Keating, B. J., & Sheehan, N. A. (2017). Correcting the Standard Errors of 2-Stage Residual Inclusion Estimators for Mendelian Randomization Studies. American Journal of Epidemiology, 186(9), 1104–1114.",
+      "link": "https://doi.org/10.1093/aje/kwx175"
+    },
+    {
+      "citation": "Snoek, R., van Setten, J., Keating, B. J., Israni, A. K., Jacobson, P. A., Oetting, W. S., Matas, A. J., Mannon, R. B., Zhang, Z., Zhang, W., Hao, K., Murphy, B., Reindl-Schwaighofer, R., Heinzl, A., Oberbauer, R., Viklicky, O., Conlon, P. J., Stapleton, C. P., Bakker, S. J. L., … van Eerde, A. M. (2018). NPHP1 (Nephrocystin-1) Gene Deletions Cause Adult-Onset ESRD. Journal of the American Society of Nephrology, 29(6), 1772–1779.",
+      "link": "https://doi.org/10.1681/asn.2017111200"
+    },
+    {
+      "citation": "van Setten, J., de Jonge, N., Cole, B. S., Chang, B., Holmes, M. V., Baan, C. C., Manintveld, O. C., Peeters, A. M., Dominguez, F., Kush, K. K., Garcia-Pavia, P., Rossano, J. W., de Weger, R. A., Moore, J. H., Keating, B., & Asselbergs, F. W. (2018). The Role of Loss-of-Function Mutations on Development of Rejection After Heart Transplantation. The Journal of Heart and Lung Transplantation, 37(4), S324–S325.",
+      "link": "https://doi.org/10.1016/j.healun.2018.01.828"
+    },
+    {
+      "citation": "Keating, B. J., Pereira, A. C., Snyder, M., & Piening, B. D. (2018). Applying genomics in heart transplantation. Transplant International, 31(3), 278–290.",
+      "link": "https://doi.org/10.1111/tri.13119"
+    },
+    {
+      "citation": "Raffield, L. M., Ellis, J., Olson, N. C., Duan, Q., Li, J., Durda, P., Pankratz, N., Keating, B. J., Wassel, C. L., Cushman, M., Wilson, J. G., Gross, M. D., Tracy, R. P., Rich, S. S., Reiner, A. P., Li, Y., Willis, M. S., Lange, E. M., & Lange, L. A. (2018). Genome-wide association study of homocysteine in African Americans from the Jackson Heart Study, the Multi-Ethnic Study of Atherosclerosis, and the Coronary Artery Risk in Young Adults study. Journal of Human Genetics, 63(3), 327–337.",
+      "link": "https://doi.org/10.1038/s10038-017-0384-9"
+    },
+    {
+      "citation": "Holzinger, E. R., Verma, S. S., Moore, C. B., Hall, M., De, R., Gilbert-Diamond, D., Lanktree, M. B., Pankratz, N., Amuzu, A., Burt, A., Dale, C., Dudek, S., Furlong, C. E., Gaunt, T. R., Kim, D. S., Riess, H., Sivapalaratnam, S., Tragante, V., van Iperen, E. P. A., … Ritchie, M. D. (2017). Discovery and replication of SNP-SNP interactions for quantitative lipid traits in over 60,000 individuals. BioData Mining, 10(1).",
+      "link": "https://doi.org/10.1186/s13040-017-0145-5"
+    },
+    {
+      "citation": "van Rooij, F. J. A., Qayyum, R., Smith, A. V., Zhou, Y., Trompet, S., Tanaka, T., Keller, M. F., Chang, L.-C., Schmidt, H., Yang, M.-L., Chen, M.-H., Hayes, J., Johnson, A. D., Yanek, L. R., Mueller, C., Lange, L., Floyd, J. S., Ghanbari, M., Zonderman, A. B., … Ganesh, S. K. (2017). Genome-wide Trans-ethnic Meta-analysis Identifies Seven Genetic Loci Influencing Erythrocyte Traits and a Role for RBPMS in Erythropoiesis. The American Journal of Human Genetics, 100(1), 51–63.",
+      "link": "https://doi.org/10.1016/j.ajhg.2016.11.016"
+    },
+    {
+      "citation": "Shaked, A., Chang, B., Barnes, M. R., Sayre, P., Li, Y. R., Asare, S., DesMarais, M., Holmes, M. V., Guettouche, T., & Keating, B. J. (2017). An ectopically expressed serum miRNA signature is prognostic, diagnostic, and biologically related to liver allograft rejection. Hepatology, 65(1), 269–280.",
+      "link": "https://doi.org/10.1002/hep.28786"
+    },
+    {
+      "citation": "Spracklen, C. N., Smith, C. J., Saftlas, A. F., Triche, E. W., Bjonnes, A., Keating, B. J., Saxena, R., Breheny, P. J., Dewan, A. T., Robinson, J. G., Hoh, J., & Ryckman, K. K. (2016). Genetic predisposition to elevated levels of C-reactive protein is associated with a decreased risk for preeclampsia. Hypertension in Pregnancy, 36(1), 30–35.",
+      "link": "https://doi.org/10.1080/10641955.2016.1223303"
+    },
+    {
+      "citation": "Nafisinia, M., Guo, Y., Dang, X., Li, J., Chen, Y., Zhang, J., Lake, N. J., Gold, W. A., Riley, L. G., Thorburn, D. R., Keating, B., Xu, X., Hakonarson, H., & Christodoulou, J. (2016). Whole Exome Sequencing Identifies the Genetic Basis of Late-Onset Leigh Syndrome in a Patient with MRI but Little Biochemical Evidence of a Mitochondrial Disorder. In JIMD Reports (pp. 117–124). Springer Berlin Heidelberg.",
+      "link": "https://doi.org/10.1007/8904_2016_541"
+    },
+    {
+      "citation": "Cyrus, C., Vatte, C., Al-Nafie, A., Chathoth, S., Al-Ali, R., Al-Shehri, A., Akhtar, M. S., Almansori, M., Al-Muhanna, F., Keating, B., & Al-Ali, A. (2016). The impact of common polymorphisms in CETP and ABCA1 genes with the risk of coronary artery disease in Saudi Arabians. Human Genomics, 10(1).",
+      "link": "https://doi.org/10.1186/s40246-016-0065-3"
+    },
+    {
+      "citation": "Ehret, G. B., Ferreira, T., Chasman, D. I., Jackson, A. U., Schmidt, E. M., Johnson, T., Thorleifsson, G., Luan, J., Donnelly, L. A., Kanoni, S., Petersen, A.-K., Pihur, V., Strawbridge, R. J., Shungin, D., Hughes, M. F., Meirelles, O., … Munroe, P. B. (2016). The genetics of blood pressure regulation and its target organs from association studies in 342,415 individuals. Nature Genetics, 48(10), 1171–1184.",
+      "link": "https://doi.org/10.1038/ng.3667"
+    },
+    {
+      "citation": "White, J., Swerdlow, D. I., Preiss, D., Fairhurst-Hunter, Z., Keating, B. J., Asselbergs, F. W., Sattar, N., Humphries, S. E., Hingorani, A. D., & Holmes, M. V. (2016). Association of Lipid Fractions With Risks for Coronary Artery Disease and Diabetes. JAMA Cardiology, 1(6), 692.",
+      "link": "https://doi.org/10.1001/jamacardio.2016.1884"
+    },
+    {
+      "citation": "van der Laan, S. W., Fall, T., Soumaré, A., Teumer, A., Sedaghat, S., Baumert, J., Zabaneh, D., van Setten, J., Isgum, I., Galesloot, T. E., Arpegård, J., Amouyel, P., Trompet, S., Waldenberger, M., Dörr, M., Magnusson, P. K., Giedraitis, V., Larsson, A., Morris, A. P., … Asselbergs, F. W. (2016). Cystatin C and Cardiovascular Disease. Journal of the American College of Cardiology, 68(9), 934–945.",
+      "link": "https://doi.org/10.1016/j.jacc.2016.05.092"
+    },
+    {
+      "citation": "Bush, W., Crosslin, D., Owusu‐Obeng, A., Wallace, J., Almoguera, B., Basford, M., Bielinski, S., Carrell, D., Connolly, J., Crawford, D., Doheny, K., Gallego, C., Gordon, A., Keating, B., Kirby, J., Kitchner, T., Manzi, S., Mejia, A., Pan, V., … Ritchie, M. (2016). Genetic variation among 82 pharmacogenes: The PGRNseq data from the eMERGE network. Clinical Pharmacology & Therapeutics, 100(2), 160–169.",
+      "link": "https://doi.org/10.1002/cpt.350"
+    },
+    {
+      "citation": "Eichler, F. S., Li, J., Guo, Y., Caruso, P. A., Bjonnes, A. C., Pan, J., Booker, J. K., Lane, J. M., Tare, A., Vlasac, I., Hakonarson, H., Gusella, J. F., Zhang, J., Keating, B. J., & Saxena, R. (2016). CSF1Rmosaicism in a family with hereditary diffuse leukoencephalopathy with spheroids. Brain, 139(6), 1666–1672.",
+      "link": "https://doi.org/10.1093/brain/aww066"
+    },
+    {
+      "citation": "Tragante, V., Asselbergs, F. W., Swerdlow, D. I., Palmer, T. M., Moore, J. H., de Bakker, P. I. W., Keating, B. J., & Holmes, M. V. (2016). Harnessing publicly available genetic data to prioritize lipid modifying therapeutic targets for prevention of coronary heart disease based on dysglycemic risk. Human Genetics, 135(5), 453–467.",
+      "link": "https://doi.org/10.1007/s00439-016-1647-9"
+    },
+    {
+      "citation": "Keating, B. J. (2016). Applying Genomics to Prevent Organ Rejection and Other Transplantation Complications. Clinical OMICs, 3(2), 29–31.",
+      "link": "https://doi.org/10.1089/clinomi.03.02.11"
+    },
+    {
+      "citation": "Oetting, W. S., Schladt, D. P., Guan, W., Miller, M. B., Remmel, R. P., Dorr, C., Sanghavi, K., Mannon, R. B., Herrera, B., Matas, A. J., Salomon, D. R., Kwok, P.-Y., Keating, B. J., Israni, A. K., & Jacobson, P. A. (2016). Genomewide Association Study of Tacrolimus Concentrations in African American Kidney Transplant Recipients Identifies Multiple CYP3A5 Alleles. American Journal of Transplantation, 16(2), 574–582.",
+      "link": "https://doi.org/10.1111/ajt.13495"
+    },
+    {
+      "citation": "AbdulAzeez, S., Al-Nafie, A., Al-Shehri, A., Borgio, J., Baranova, E., Al-Madan, M., Al-Ali, R., Al-Muhanna, F., Al-Ali, A., Al-Mansori, M., Ibrahim, M., Asselbergs, F., Keating, B., Koeleman, B., & Al-Ali, A. (2016). Intronic Polymorphisms in the CDKN2B-AS1 Gene Are Strongly Associated with the Risk of Myocardial Infarction and Coronary Artery Disease in the Saudi Population. International Journal of Molecular Sciences, 17(3), 395.",
+      "link": "https://doi.org/10.3390/ijms17030395"
+    },
+    {
+      "citation": "Tragante, V., Asselbergs, F. W., Swerdlow, D. I., Palmer, T. M., Moore, J. H., de Bakker, P. I. W., Keating, B. J., & Holmes, M. V. (2016). Harnessing publicly available genetic data to prioritize lipid modifying therapeutic targets for prevention of coronary heart disease based on dysglycemic risk. Human Genetics, 135(5), 453–467.",
+      "link": "https://doi.org/10.1007/s00439-016-1647-9"
+    },
+    {
+      "citation": "van Setten, J., de Jonge, N., Holmes, M. V., Khush, K. K., Sweitzer, N. K., Garcia-Pavia, P., Rossano, J. W., Dries, D. L., Potena, L., Zuckermann, A., Christie, J. D., Wilkes, D. S., Lederer, D., Meyer, K. C., Glanville, A. R., Corris, P., Fisher, A., Palmer, S. M., Belperio, J. A., … Asselbergs, F. W. (2016). The Role of Loss-of-Function Mutations on Death and Development of Rejection in HTX/LTX Patients. The Journal of Heart and Lung Transplantation, 35(4), S191.",
+      "link": "https://doi.org/10.1016/j.healun.2016.01.535"
+    },
+    {
+      "citation": "Leusink, M., Maitland-van der Zee, A. H., Ding, B., Drenos, F., van Iperen, E. P., Warren, H. R., Caulfield, M. J., Cupples, L. A., Cushman, M., Hingorani, A. D., Hoogeveen, R. C., Hovingh, G. K., Kumari, M., Lange, L. A., Munroe, P. B., Nyberg, F., Schreiner, P. J., Sivapalaratnam, S., de Bakker, P. I., … Onland-Moret, N. C. (2016). A Genetic Risk Score is Associated with Statin-Induced Low-Density Lipoprotein Cholesterol Lowering. Pharmacogenomics, 17(6), 583–591.",
+      "link": "https://doi.org/10.2217/pgs.16.8"
+    },
+    {
+      "citation": "Zhang, J., Barbaro, P., Guo, Y., Alodaib, A., Li, J., Gold, W., Adès, L., Keating, B. J., Xu, X., Teo, J., Hakonarson, H., & Christodoulou, J. (2015). Utility of next‐generation sequencing technologies for the efficient genetic resolution of haematological disorders. Clinical Genetics, 89(2), 163–172.",
+      "link": "https://doi.org/10.1111/cge.12573"
+    },
+    {
+      "citation": "Liu, Y., Li, Y., March, M. E., Nguyen, K., Xu, K., Wang, F., Guo, Y., Keating, B., Glessner, J., Li, J., Ganley, T. J., Zhang, J., Deardorff, M. A., Xu, X., & Hakonarson, H. (2015). Copy number variation in CEP57L1 predisposes to congenital absence of bilateral ACL and PCL ligaments. Human Genomics, 9(1).",
+      "link": "https://doi.org/10.1186/s40246-015-0053-z"
+    },
+    {
+      "citation": "Guo, Y., Wei, Z., Keating, B. J., & Hakonarson, H. (2015). Machine learning derived risk prediction of anorexia nervosa. BMC Medical Genomics, 9(1).",
+      "link": "https://doi.org/10.1186/s12920-016-0165-x"
+    },
+    {
+      "citation": "Wolf, J. H., Holmes, M. V., Fouraschen, S., Keating, B. J., Baker, T., Emond, J., Rader, D. J., Shaked, A., & Olthoff, K. M. (2015). Serum lipid expression correlates with function and regeneration following living donor liver transplantation. Liver Transplantation, 22(1), 103–110.",
+      "link": "https://doi.org/10.1002/lt.24220"
+    },
+    {
+      "citation": "Smith, C. J., Saftlas, A. F., Spracklen, C. N., Triche, E. W., Bjonnes, A., Keating, B., Saxena, R., Breheny, P. J., Dewan, A. T., Robinson, J. G., Hoh, J., & Ryckman, K. K. (2015). Genetic Risk Score for Essential Hypertension and Risk of Preeclampsia. American Journal of Hypertension, 29(1), 17–24.",
+      "link": "https://doi.org/10.1093/ajh/hpv069"
+    },
+    {
+      "citation": "Rodriguez, S., Gaunt, T. R., Guo, Y., Zheng, J., Barnes, M. R., Tang, W., Danish, F., Johnson, A., Castillo, B. A., Li, Y. R., Hakonarson, H., Buxbaum, S. G., Palmer, T., Tsai, M. Y., Lange, L. A., Ebrahim, S., Davey Smith, G., Lawlor, D. A., Folsom, A. R., … Day, I. N. (2015). Lipids, obesity and gallbladder disease in women: insights from genetic studies using the cardiovascular gene-centric 50K SNP array. European Journal of Human Genetics, 24(1), 106–112.",
+      "link": "https://doi.org/10.1038/ejhg.2015.63"
+    },
+    {
+      "citation": "Chathoth, S., Al-Mueilo, S., Cyrus, C., Vatte, C., Al-Nafaie, A., Al-Ali, R., Keating, B. J., Al-Muhanna, F., & Al Ali, A. (2015). Elevated Fibroblast Growth Factor 23 Concentration: Prediction of Mortality among Chronic Kidney Disease Patients. Cardiorenal Medicine, 6(1), 73–82.",
+      "link": "https://doi.org/10.1159/000440984"
+    },
+    {
+      "citation": "Li, Y. R., van Setten, J., Verma, S. S., Lu, Y., Holmes, M. V., Gao, H., Lek, M., Nair, N., Chandrupatla, H., Chang, B., Karczewski, K. J., Wong, C., Mohebnasab, M., Mukhtar, E., Phillips, R., Tragante, V., Hou, C., Steel, L., Lee, T., … Keating, B. J. (2015). Concept and design of a genome-wide association genotyping array tailored for transplantation-specific studies. Genome Medicine, 7(1).",
+      "link": "https://doi.org/10.1186/s13073-015-0211-x"
+    },
+    {
+      "citation": "Li, Y. R., Zhao, S. D., Li, J., Bradfield, J. P., Mohebnasab, M., Steel, L., Kobie, J., Abrams, D. J., Mentch, F. D., Glessner, J. T., Guo, Y., Wei, Z., Connolly, J. J., Cardinale, C. J., Bakay, M., Li, D., Maggadottir, S. M., Thomas, K. A., Qui, H., … Hakonarson, H. (2015). Genetic sharing and heritability of paediatric age of onset autoimmune diseases. Nature Communications, 6(1).",
+      "link": "https://doi.org/10.1038/ncomms9442"
+    },
+    {
+      "citation": "Design and Implementation of the International Genetics and Translational Research in Transplantation Network. (2015). Transplantation, 99(11), 2401–2412.",
+      "link": "https://doi.org/10.1097/tp.0000000000000913"
+    },
+    {
+      "citation": "Li, Y. R., Li, J., Zhao, S. D., Bradfield, J. P., Mentch, F. D., Maggadottir, S. M., Hou, C., Abrams, D. J., Chang, D., Gao, F., Guo, Y., Wei, Z., Connolly, J. J., Cardinale, C. J., Bakay, M., Glessner, J. T., Li, D., Kao, C., Thomas, K. A., … Hakonarson, H. (2015). Meta-analysis of shared genetic architecture across ten pediatric autoimmune diseases. Nature Medicine, 21(9), 1018–1027.",
+      "link": "https://doi.org/10.1038/nm.3933"
+    },
+    {
+      "citation": "Lanktree, M. B., Elbers, C. C., Li, Y., Zhang, G., Duan, Q., Karczewski, K. J., Guo, Y., Tragante, V., North, K. E., Cushman, M., Asselbergs, F. W., Wilson, J. G., Lange, L. A., Drenos, F., Reiner, A. P., Barnes, M. R., & Keating, B. J. (2015). Genetic meta-analysis of 15,901 African Americans identifies variation in EXOC3L1 is associated with HDL concentration. Journal of Lipid Research, 56(9), 1781–1786.",
+      "link": "https://doi.org/10.1194/jlr.p059477"
+    },
+    {
+      "citation": "Nüesch, E., Dale, C., Palmer, T. M., White, J., Keating, B. J., van Iperen, E. P., Goel, A., Padmanabhan, S., Asselbergs, F. W., Verschuren, W., Wijmenga, C., Van der Schouw, Y., Onland-Moret, N., Lange, L. A., Hovingh, G., Sivapalaratnam, S., Morris, R. W., Whincup, P. H., … Casas, J. P. (2015). Adult height, coronary heart disease and stroke: a multi-locus Mendelian randomization meta-analysis. International Journal of Epidemiology, 45(6), 1927–1937.",
+      "link": "https://doi.org/10.1093/ije/dyv074"
+    },
+    {
+      "citation": "De, R., Verma, S. S., Drenos, F., Holzinger, E. R., Holmes, M. V., Hall, M. A., Crosslin, D. R., Carrell, D. S., Hakonarson, H., Jarvik, G., Larson, E., Pacheco, J. A., Rasmussen-Torvik, L. J., Moore, C. B., Asselbergs, F. W., Moore, J. H., Ritchie, M. D., Keating, B. J., & Gilbert-Diamond, D. (2015). Identifying gene-gene interactions that are highly associated with Body Mass Index using Quantitative Multifactor Dimensionality Reduction (QMDR). BioData Mining, 8(1).",
+      "link": "https://doi.org/10.1186/s13040-015-0074-0"
+    },
+    {
+      "citation": "Tang, W., Cushman, M., Green, D., Rich, S. S., Lange, L. A., Yang, Q., … Folsom, A. R. (2015). Gene-centric approach identifies new and known loci for FVIII activity and VWF antigen levels in European Americans and African Americans. American Journal of Hematology, 90(6), 534–540.",
+      "link": "https://doi.org/10.1002/ajh.24005"
+    },
+    {
+      "citation": "Guo, Y., Prokudin, I., Yu, C., Liang, J., Xie, Y., Flaherty, M., Tian, L., Crofts, S., Wang, F., Snyder, J., Donaldson, C., Abdel-Magid, N., Vazquez, L., Keating, B., Hakonarson, H., Wang, J., & Jamieson, R. V. (2014). Advantage of Whole Exome Sequencing over Allele-Specific and Targeted Segment Sequencing in Detection of NovelTULP1Mutation in Leber Congenital Amaurosis. Ophthalmic Genetics, 36(4), 333–338.",
+      "link": "https://doi.org/10.3109/13816810.2014.886269"
+    },
+    {
+      "citation": "Keating, B. J. (2015). Advances in Risk Prediction of Type 2 Diabetes: Integrating Genetic Scores With Framingham Risk Models. Diabetes, 64(5), 1495–1497.",
+      "link": "https://doi.org/10.2337/db15-0033"
+    },
+    {
+      "citation": "Menezes, M. J., Guo, Y., Zhang, J., Riley, L. G., Cooper, S. T., Thorburn, D. R., Li, J., Dong, D., Li, Z., Glessner, J., Davis, R. L., Sue, C. M., Alexander, S. I., Arbuckle, S., Kirwan, P., Keating, B. J., Xu, X., Hakonarson, H., & Christodoulou, J. (2015). Mutation in mitochondrial ribosomal protein S7 (MRPS7) causes congenital sensorineural deafness, progressive hepatic and renal failure and lactic acidemia. Human Molecular Genetics, 24(8), 2297–2307.",
+      "link": "https://doi.org/10.1093/hmg/ddu747"
+    },
+    {
+      "citation": "Gil-Rodríguez, M. C., Deardorff, M. A., Ansari, M., Tan, C. A., Parenti, I., Baquero-Montoya, C., Ousager, L. B., Puisac, B., Hernández-Marcos, M., Teresa-Rodrigo, M. E., Marcos-Alcalde, I., Wesselink, J.-J., Lusa-Bernal, S., Bijlsma, E. K., Braunholz, D., Bueno-Martinez, I., Clark, D., Cooper, N. S., Curry, C. J., … Pié, J. (2015). De NovoHeterozygous Mutations inSMC3Cause a Range of Cornelia de Lange Syndrome-Overlapping Phenotypes. Human Mutation, 36(4), 454–462.",
+      "link": "https://doi.org/10.1002/humu.22761"
+    },
+    {
+      "citation": "Guo, Y., Menezes, M. J., Menezes, M. P., Liang, J., Li, D., Riley, L. G., Clarke, N. F., Andrews, P. I., Tian, L., Webster, R., Wang, F., Liu, X., Shen, Y., Thorburn, D. R., Keating, B. J., Engel, A., Hakonarson, H., Christodoulou, J., & Xu, X. (2015). Delayed diagnosis of congenital myasthenia due to associated mitochondrial enzyme defect. Neuromuscular Disorders, 25(3), 257–261.",
+      "link": "https://doi.org/10.1016/j.nmd.2014.11.017"
+    },
+    {
+      "citation": "Fischer, M. E., Schubert, C. R., Nondahl, D. M., Dalton, D. S., Huang, G.-H., Keating, B. J., Klein, B. E. K., Klein, R., Tweed, T. S., & Cruickshanks, K. J. (2015). Subclinical atherosclerosis and increased risk of hearing impairment. Atherosclerosis, 238(2), 344–349.",
+      "link": "https://doi.org/10.1016/j.atherosclerosis.2014.12.031"
+    },
+    {
+      "citation": "Menezes, M. J., Guo, Y., Zhang, J., Riley, L. G., Cooper, S. T., Thorburn, D. R., Li, J., Dong, D., Li, Z., Glessner, J., Davis, R. L., Sue, C. M., Alexander, S. I., Arbuckle, S., Kirwan, P., Keating, B. J., Xu, X., Hakonarson, H., & Christodoulou, J. (2015). Mutation in mitochondrial ribosomal protein S7 (MRPS7) causes congenital sensorineural deafness, progressive hepatic and renal failure and lactic acidemia. Human Molecular Genetics, 24(8), 2297–2307.",
+      "link": "https://doi.org/10.1093/hmg/ddu747"
+    },
+    {
+      "citation": "Holmes, M. V., Asselbergs, F. W., Palmer, T. M., Drenos, F., Lanktree, M. B., Nelson, C. P., Dale, C. E., Padmanabhan, S., Finan, C., Swerdlow, D. I., Tragante, V., van Iperen, E. P. A., Sivapalaratnam, S., Shah, S., Elbers, C. C., Shah, T., Engmann, J., Giambartolomei, C., White, J., … Casas, J. P. (2014). Mendelian randomization of blood lipids for coronary heart disease. European Heart Journal, 36(9), 539–550.",
+      "link": "https://doi.org/10.1093/eurheartj/eht571"
+    },
+    {
+      "citation": "Spracklen, C. N., Saftlas, A. F., Triche, E. W., Bjonnes, A., Keating, B., Saxena, R., Breheny, P. J., Dewan, A. T., Robinson, J. G., Hoh, J., & Ryckman, K. K. (2014). Genetic Predisposition to Dyslipidemia and Risk of Preeclampsia. American Journal of Hypertension, 28(7), 915–923.",
+      "link": "https://doi.org/10.1093/ajh/hpu242"
+    },
+    {
+      "citation": "Prokudin, I., Li, D., He, S., Guo, Y., Goodwin, L., Wilson, M., Rose, L., Tian, L., Chen, Y., Liang, J., Keating, B., Xu, X., Jamieson, R. V., & Hakonarson, H. (2014). Value of whole exome sequencing for syndromic retinal dystrophy diagnosis in young patients. Clinical & Experimental Ophthalmology, 43(2), 132–138.",
+      "link": "https://doi.org/10.1111/ceo.12391"
+    },
+    {
+      "citation": "Swerdlow, D. I., Preiss, D., Kuchenbaecker, K. B., Holmes, M. V., Engmann, J. E. L., Shah, T., Sofat, R., Stender, S., Johnson, P. C. D., Scott, R. A., Leusink, M., Verweij, N., Sharp, S. J., Guo, Y., Giambartolomei, C., Chung, C., Peasey, A., Amuzu, A., Li, K., … Sattar, N. (2015). HMG-coenzyme A reductase inhibition, type 2 diabetes, and bodyweight: evidence from genetic analysis and randomised trials. The Lancet, 385(9965), 351–361.",
+      "link": "https://doi.org/10.1016/s0140-6736(14)61183-1"
+    },
+    {
+      "citation": "Crosslin, D. R., Carrell, D. S., Burt, A., Kim, D. S., Underwood, J. G., Hanna, D. S., Comstock, B. A., Baldwin, E., de Andrade, M., Kullo, I. J., Tromp, G., Kuivaniemi, H., Borthwick, K. M., McCarty, C. A., Peissig, P. L., Doheny, K. F., Pugh, E., Kho, A., Pacheco, J., … Jarvik, G. P. (2014). Genetic variation in the HLA region is associated with susceptibility to herpes zoster. Genes & Immunity, 16(1), 1–7.",
+      "link": "https://doi.org/10.1038/gene.2014.51"
+    },
+    {
+      "citation": "Keller, M. F., Reiner, A. P., Okada, Y., van Rooij, F. J. A., Johnson, A. D., Chen, M.-H., Smith, A. V., Morris, A. P., Tanaka, T., Ferrucci, L., Zonderman, A. B., Lettre, G., Harris, T., Garcia, M., Bandinelli, S., Qayyum, R., Yanek, L. R., Becker, D. M., … Becker, L. C. (2014). Trans-ethnic meta-analysis of white blood cell phenotypes. Human Molecular Genetics, 23(25), 6944–6960.",
+      "link": "https://doi.org/10.1093/hmg/ddu401"
+    },
+    {
+      "citation": "Almoguera, B., He, S., Corton, M., Fernandez-San Jose, P., Blanco-Kelly, F., López-Molina, M. I., García-Sandoval, B., del Val, J., Guo, Y., Tian, L., Liu, X., Guan, L., Torres, R. J., Puig, J. G., Hakonarson, H., Xu, X., Keating, B., & Ayuso, C. (2014). Expanding the phenotype of PRPS1 syndromes in females: neuropathy, hearing loss and retinopathy. Orphanet Journal of Rare Diseases, 9(1).",
+      "link": "https://doi.org/10.1186/s13023-014-0190-9"
+    },
+    {
+      "citation": "Silverwood, R. J., Holmes, M. V., Dale, C. E., Lawlor, D. A., Whittaker, J. C., Smith, G. D., Leon, D. A., Palmer, T., Keating, B. J., Zuccolo, L., Casas, J. P., & Dudbridge, F. (2014). Testing for non-linear causal effects using a binary genotype in a Mendelian randomization study: application to alcohol and cardiovascular traits. International Journal of Epidemiology, 43(6), 1781–1790.",
+      "link": "https://doi.org/10.1093/ije/dyu187"
+    },
+    {
+      "citation": "Holmes, M. V., Frikke-Schmidt, R., Melis, D., Luben, R., Asselbergs, F. W., Boer, J. M. A., Cooper, J., Palmen, J., Horvat, P., Engmann, J., Li, K.-W., Onland-Moret, N. C., Hofker, M. H., Kumari, M., Keating, B. J., Hubacek, J. A., Adamkova, V., Kubinova, R., Bobak, M., … Talmud, P. J. (2014). A systematic review and meta-analysis of 130,000 individuals shows smoking does not modify the association of APOE genotype on risk of coronary heart disease. Atherosclerosis, 237(1), 5–12.",
+      "link": "https://doi.org/10.1016/j.atherosclerosis.2014.07.038"
+    },
+    {
+      "citation": "Guo, Y., Kartawinata, M., Li, J., Pickett, H. A., Teo, J., Kilo, T., Barbaro, P. M., Keating, B., Chen, Y., Tian, L., Al-Odaib, A., Reddel, R. R., Christodoulou, J., Xu, X., Hakonarson, H., & Bryan, T. M. (2014). Inherited bone marrow failure associated with germline mutation of ACD, the gene encoding telomere protein TPP1. Blood, 124(18), 2767–2774.",
+      "link": "https://doi.org/10.1182/blood-2014-08-596445"
+    },
+    {
+      "citation": "De, R., Holmes, M. V., Moore, J. H., Ritchie, M. D., Verma, S. S., Asselbergs, F. W., Keating, B. J., & Gilbert-Diamond, D. (2014). Dissecting the obesity disease landscape: Identifying gene-gene interactions that are highly associated with body mass index. In 2014 8th International Conference on Systems Biology (ISB) (pp. 124–131). 2014 8th International Conference on Systems Biology (ISB). IEEE.",
+      "link": "https://doi.org/10.1109/isb.2014.6990744"
+    },
+    {
+      "citation": "Li, Y. R., & Keating, B. J. (2014). Trans-ethnic genome-wide association studies: advantages and challenges of mapping in diverse populations. Genome Medicine, 6(10).",
+      "link": "https://doi.org/10.1186/s13073-014-0091-5"
+    },
+    {
+      "citation": "Rasmussen-Torvik, L. J., Stallings, S. C., Gordon, A. S., Almoguera, B., Basford, M. A., Bielinski, S. J., Brautbar, A., Brilliant, M. H., Carrell, D. S., Connolly, J. J., Crosslin, D. R., Doheny, K. F., Gallego, C. J., Gottesman, O., Kim, D. S., Leppig, K. A., Li, R., Lin, S., Manzi, S., … Denny, J. C. (2014). Design and Anticipated Outcomes of the eMERGE-PGx Project: A Multicenter Pilot for Preemptive Pharmacogenomics in Electronic Health Record Systems. Clinical Pharmacology & Therapeutics, 96(4), 482–489.",
+      "link": "https://doi.org/10.1038/clpt.2014.137"
+    },
+    {
+      "citation": "Ellis, J., Lange, E. M., Li, J., Dupuis, J., Baumert, J., Walston, J. D., Keating, B. J., Durda, P., Fox, E. R., Palmer, C. D., Meng, Y. A., Young, T., Farlow, D. N., Schnabel, R. B., Marzi, C. S., Larkin, E., Martin, L. W., Bis, J. C., Auer, P., … Lange, L. A. (2014). Large multiethnic Candidate Gene Study for C-reactive protein levels: identification of a novel association at CD36 in African Americans. Human Genetics, 133(8), 985–995.",
+      "link": "https://doi.org/10.1007/s00439-014-1439-z"
+    },
+    {
+      "citation": "Holmes, M. V., Dale, C. E., Zuccolo, L., Silverwood, R. J., Guo, Y., Ye, Z., Prieto-Merino, D., Dehghan, A., Trompet, S., Wong, A., Cavadino, A., Drogan, D., Padmanabhan, S., Li, S., Yesupriya, A., Leusink, M., Sundstrom, J., Hubacek, J. A., … Pikhart, H. (2014). Association between alcohol and cardiovascular disease: Mendelian randomisation analysis based on individual participant data. BMJ, 349(jul10 6), g4164–g4164.",
+      "link": "https://doi.org/10.1136/bmj.g4164"
+    },
+    {
+      "citation": "Jarvik, G. P., Amendola, L. M., Berg, J. S., Brothers, K., Clayton, E. W., Chung, W., Evans, B. J., Evans, J. P., Fullerton, S. M., Gallego, C. J., Garrison, N. A., Gray, S. W., Holm, I. A., Kullo, I. J., Lehmann, L. S., McCarty, C., Prows, C. A., Rehm, H. L., Sharp, R. R., … Sun, K. (2014). Return of Genomic Results to Research Participants: The Floor, the Ceiling, and the Choices In Between. The American Journal of Human Genetics, 94(6), 818–826.",
+      "link": "https://doi.org/10.1016/j.ajhg.2014.04.009"
+    },
+    {
+      "citation": "Almoguera, B., Vazquez, L., Connolly, J. J., Bradfield, J., Sleiman, P., Keating, B., & Hakonarson, H. (2014). Imputation of TPMT defective alleles for the identification of patients with high-risk phenotypes. Frontiers in Genetics, 5.",
+      "link": "https://doi.org/10.3389/fgene.2014.00096"
+    },
+    {
+      "citation": "Almoguera, B., Shaked, A., & Keating, B. J. (2014). Transplantation Genetics: Current Status and Prospects. American Journal of Transplantation, 14(4), 764–778.",
+      "link": "https://doi.org/10.1111/ajt.12653"
+    },
+    {
+      "citation": "Holmes, M. V., Exeter, H. J., Folkersen, L., Nelson, C. P., Guardiola, M., Cooper, J. A., Sofat, R., Boekholdt, S. M., Khaw, K.-T., Li, K.-W., Smith, A. J. P., van’t Hooft, F., Eriksson, P., Franco-Cereceda, A., Asselbergs, F. W., Boer, J. M. A., Onland-Moret, N. C., Hofker, M., Erdmann, J., … Talmud, P. J. (2014). Novel Genetic Approach to Investigate the Role of Plasma Secretory Phospholipase A2 (sPLA 2 ) -V Isoenzyme in Coronary Heart Disease. Circulation: Cardiovascular Genetics, 7(2), 144–150.",
+      "link": "https://doi.org/10.1161/circgenetics.113.000271"
+    },
+    {
+      "citation": "Kullo, I. J., Haddad, R., Prows, C. A., Holm, I., Sanderson, S. C., Garrison, N. A., Sharp, R. R., Smith, M. E., Kuivaniemi, H., Bottinger, E. P., Connolly, J. J., Keating, B. J., McCarty, C. A., Williams, M. S., & Jarvik, G. P. (2014). Return of results in the genomic medicine projects of the eMERGE network. Frontiers in Genetics, 5.",
+      "link": "https://doi.org/10.3389/fgene.2014.00050"
+    },
+    {
+      "citation": "Tragante, V., Barnes, M. R., Ganesh, S. K., Lanktree, M. B., Guo, W., Franceschini, N., Smith, E. N., Johnson, T., Holmes, M. V., Padmanabhan, S., Karczewski, K. J., Almoguera, B., Barnard, J., Baumert, J., Chang, Y.-P. C., Elbers, C. C., Farrall, M., Fischer, M. E., Gaunt, T. R., … Keating, B. J. (2014). Gene-centric Meta-analysis in 87,736 Individuals of European Ancestry Identifies Multiple Blood-Pressure-Related Loci. The American Journal of Human Genetics, 94(3), 349–360.",
+      "link": "https://doi.org/10.1016/j.ajhg.2013.12.016"
+    },
+    {
+      "citation": "Holmes, M. V., Lange, L. A., Palmer, T., Lanktree, M. B., North, K. E., Almoguera, B., Buxbaum, S., Chandrupatla, H. R., Elbers, C. C., Guo, Y., Hoogeveen, R. C., Li, J., Li, Y. R., Swerdlow, D. I., Cushman, M., Price, T. S., Curtis, S. P., Fornage, M., Hakonarson, H., … Keating, B. J. (2014). Causal Effects of Body Mass Index on Cardiometabolic Traits and Events: A Mendelian Randomization Analysis. The American Journal of Human Genetics, 94(2), 198–208.",
+      "link": "https://doi.org/10.1016/j.ajhg.2013.12.014"
+    },
+    {
+      "citation": "Jarvik, G. P., Amendola, L. M., Berg, J. S., Brothers, K., Clayton, E. W., Chung, W., Evans, B. J., Evans, J. P., Fullerton, S. M., Gallego, C. J., Garrison, N. A., Gray, S. W., Holm, I. A., Kullo, I. J., Lehmann, L. S., McCarty, C., Prows, C. A., Rehm, H. L., Sharp, R. R., … Sun, K. (2014). Return of Genomic Results to Research Participants: The Floor, the Ceiling, and the Choices In Between. The American Journal of Human Genetics, 94(6), 818–826.",
+      "link": "https://doi.org/10.1016/j.ajhg.2014.04.009"
+    },
+    {
+      "citation": "Li, Y. R., Levine, J. E., Hakonarson, H., & Keating, B. J. (2013). Making the genomic leap in HCT: application of second-generation sequencing to clinical advances in hematopoietic cell transplantation. European Journal of Human Genetics, 22(6), 715–723.",
+      "link": "https://doi.org/10.1038/ejhg.2013.247"
+    },
+    {
+      "citation": "Yoneyama, S., Guo, Y., Lanktree, M. B., Barnes, M. R., Elbers, C. C., Karczewski, K. J., Padmanabhan, S., Bauer, F., Baumert, J., Beitelshees, A., Berenson, G. S., Boer, J. M. A., Burke, G., Cade, B., Chen, W., Cooper-Dehoff, R. M., Gaunt, T. R., Gieger, C., Gong, Y., … Taylor, K. C. (2013). Gene-centric meta-analyses for central adiposity traits in up to 57 412 individuals of European descent confirm known loci and reveal several novel associations. Human Molecular Genetics, 23(9), 2498–2510.",
+      "link": "https://doi.org/10.1093/hmg/ddt626"
+    },
+    {
+      "citation": "Chatsuriyawong, S., Gozal, D., Kheirandish-Gozal, L., Bhattacharjee, R., Khalyfa, A. A., Wang, Y., Hakonarson, H., Keating, B., Sukhumsirichart, W., & Khalyfa, A. (2013). Genetic variance in Nitric Oxide Synthase and Endothelin Genes among children with and without Endothelial Dysfunction. Journal of Translational Medicine, 11(1).",
+      "link": "https://doi.org/10.1186/1479-5876-11-227"
+    },
+    {
+      "citation": "Shi, L., Zhang, X., Golhar, R., Otieno, F. G., He, M., Hou, C., Kim, C., Keating, B., Lyon, G. J., Wang, K., & Hakonarson, H. (2013). Whole-genome sequencing in an autism multiplex family. Molecular Autism, 4(1).",
+      "link": "https://doi.org/10.1186/2040-2392-4-8"
+    },
+    {
+      "citation": "Holmes, M. V., Simon, T., Exeter, H. J., Folkersen, L., Asselbergs, F. W., Guardiola, M., Cooper, J. A., Palmen, J., Hubacek, J. A., Carruthers, K. F., Horne, B. D., Brunisholz, K. D., Mega, J. L., van Iperen, E. P. A., Li, M., Leusink, M., Trompet, S., Verschuren, J. J. W., Hovingh, G. K., … Talmud, P. J. (2013). Secretory Phospholipase A2-IIA and Cardiovascular Disease. Journal of the American College of Cardiology, 62(21), 1966–1976.",
+      "link": "https://doi.org/10.1016/j.jacc.2013.06.044"
+    },
+    {
+      "citation": "Eicher, J. D., Powers, N. R., Miller, L. L., Akshoomoff, N., Amaral, D. G., Bloss, C. S., Libiger, O., Schork, N. J., Darst, B. F., Casey, B. J., Chang, L., Ernst, T., Frazier, J., Kaufmann, W. E., Keating, B., Kenet, T., Kennedy, D., Mostofsky, S., … Murray, S. S. (2013). Genome‐wide association study of shared components of reading disability and language impairment. Genes, Brain and Behavior, 12(8), 792–801.",
+      "link": "https://doi.org/10.1111/gbb.12085"
+    },
+    {
+      "citation": "Best, L. G., Saxena, R., Anderson, C. M., Barnes, M. R., Hakonarson, H., Falcon, G., Martin, C., Castillo, B. A., Karumanchi, A., Keplin, K., Pearson, N., Lamb, F., Bercier, S., & Keating, B. J. (2013). Two Variants of the C-Reactive Protein Gene Are Associated with Risk of Pre-Eclampsia in an American Indian Population. PLoS ONE, 8(8), e71231.",
+      "link": "https://doi.org/10.1371/journal.pone.0071231"
+    },
+    {
+      "citation": "Best, L. G., Anderson, C. M., Saxena, R., Almoguera, B., Chandrupatla, H., Martin, C., Falcon, G., Keplin, K., Pearson, N., & Keating, B. J. (2013). IBC CARe Microarray Allelic Population Prevalences in an American Indian Population. PLoS ONE, 8(9), e75080.",
+      "link": "https://doi.org/10.1371/journal.pone.0075080"
+    },
+    {
+      "citation": "Franceschini, N., Fox, E., Zhang, Z., Edwards, T. L., Nalls, M. A., Sung, Y. J., Tayo, B. O., Sun, Y. V., Gottesman, O., Adeyemo, A., Johnson, A. D., Young, J. H., Rice, K., Duan, Q., Chen, F., Li, Y., Tang, H., Fornage, M., Keene, K. L., … Zhu, D. (2013). Genome-wide Association Analysis of Blood-Pressure Traits in African-Ancestry Individuals Reveals Common Associated Genes in African and Non-African Populations. The American Journal of Human Genetics, 93(3), 545–554.",
+      "link": "https://doi.org/10.1016/j.ajhg.2013.07.010"
+    },
+    {
+      "citation": "Reiner, A. P., Hartiala, J., Zeller, T., Bis, J. C., Dupuis, J., Fornage, M., Baumert, J., Kleber, M. E., Wild, P. S., Baldus, S., Bielinski, S. J., Fontes, J. D., Illig, T., Keating, B. J., Lange, L. A., Ojeda, F., Müller-Nurasyid, M., Munzel, T. F., Psaty, B. M., … Allayee, H. (2013). Genome-wide and gene-centric analyses of circulating myeloperoxidase levels in the charge and care consortia. Human Molecular Genetics, 22(16), 3381–3393.",
+      "link": "https://doi.org/10.1093/hmg/ddt189"
+    },
+    {
+      "citation": "Chen, Z., Tang, H., Qayyum, R., Schick, U. M., Nalls, M. A., Handsaker, R., Li, J., Lu, Y., Yanek, L. R., Keating, B., Meng, Y., van Rooij, F. J. A., Okada, Y., Kubo, M., Rasmussen-Torvik, L., Keller, M. F., Lange, L., Evans, M., Bottinger, E. P., … Reiner, A. P. (2013). Genome-wide association analysis of red blood cell traits in African Americans: the COGENT Network. Human Molecular Genetics, 22(12), 2529–2538.",
+      "link": "https://doi.org/10.1093/hmg/ddt087"
+    },
+    {
+      "citation": "Martignetti, J. A., Tian, L., Li, D., Ramirez, M. C. M., Camacho-Vanegas, O., Camacho, S. C., Guo, Y., Zand, D. J., Bernstein, A. M., Masur, S. K., Kim, C. E., Otieno, F. G., Hou, C., Abdel-Magid, N., Tweddale, B., Metry, D., Fournet, J.-C., Papp, E., McPherson, E. W., … Hakonarson, H. (2013). Mutations in PDGFRB Cause Autosomal-Dominant Infantile Myofibromatosis. The American Journal of Human Genetics, 92(6), 1001–1007.",
+      "link": "https://doi.org/10.1016/j.ajhg.2013.04.024"
+    },
+    {
+      "citation": "Monda, K. L., Chen, G. K., Taylor, K. C., Palmer, C., Edwards, T. L., Lange, L. A., Ng, M. C. Y., Adeyemo, A. A., Allison, M. A., Bielak, L. F., Chen, G., Graff, M., Irvin, M. R., Rhie, S. K., Li, G., … Haiman, C. A. (2013). A meta-analysis identifies new loci associated with body mass index in individuals of African ancestry. Nature Genetics, 45(6), 690–696.",
+      "link": "https://doi.org/10.1038/ng.2608"
+    },
+    {
+      "citation": "Keating, B., Bansal, A. T., Walsh, S., Millman, J., Newman, J., Kidd, K., Budowle, B., Eisenberg, A., Donfack, J., Gasparini, P., Budimlija, Z., Henders, A. K., Chandrupatla, H., Duffy, D. L., Gordon, S. D., Hysi, P., Liu, F., Medland, S. E., … Kayser, M. (2012). First all-in-one diagnostic tool for DNA intelligence: genome-wide inference of biogeographic ancestry, appearance, relatedness, and sex with the Identitas v1 Forensic Chip. International Journal of Legal Medicine, 127(3), 559–572.",
+      "link": "https://doi.org/10.1007/s00414-012-0788-1"
+    },
+    {
+      "citation": "Ganesh, S. K., Tragante, V., Guo, W., Guo, Y., Lanktree, M. B., Smith, E. N., Johnson, T., Castillo, B. A., Barnard, J., Baumert, J., Chang, Y.-P. C., Elbers, C. C., Farrall, M., Fischer, M. E., Franceschini, N., Gaunt, T. R., Gho, J. M. I. H., Gieger, C., Gong, Y., … Asselbergs, F. W. (2013). Loci influencing blood pressure identified using a cardiovascular gene-centric array. Human Molecular Genetics, 22(8), 1663–1678.",
+      "link": "https://doi.org/10.1093/hmg/dds555"
+    },
+    {
+      "citation": "Glessner, J. T., Smith, A. V., Panossian, S., Kim, C. E., Takahashi, N., Thomas, K. A., Wang, F., Seidler, K., Harris, T. B., Launer, L. J., Keating, B., Connolly, J., Sleiman, P. M. A., Buxbaum, J. D., Grant, S. F. A., Gudnason, V., & Hakonarson, H. (2013). Copy Number Variations in Alternative Splicing Gene Networks Impact Lifespan. PLoS ONE, 8(1), e53846.",
+      "link": "https://doi.org/10.1371/journal.pone.0053846"
+    },
+    {
+      "citation": "Guo, Y., Lanktree, M. B., Taylor, K. C., Hakonarson, H., Lange, L. A., & Keating, B. J. (2012). Gene-centric meta-analyses of 108 912 individuals confirm known body mass index loci and reveal three novel signals. Human Molecular Genetics, 22(1), 184–201.",
+      "link": "https://doi.org/10.1093/hmg/dds396"
+    },
+    {
+      "citation": "Elbers, C. C., Guo, Y., Tragante, V., van Iperen, E. P. A., Lanktree, M. B., Castillo, B. A., Chen, F., Yanek, L. R., Wojczynski, M. K., Li, Y. R., Ferwerda, B., Ballantyne, C. M., Buxbaum, S. G., Chen, Y.-D. I., Chen, W.-M., Cupples, L. A., Cushman, M., Duan, Y., Duggan, D., … Keating, B. J. (2012). Gene-Centric Meta-Analysis of Lipid Traits in African, East Asian and Hispanic Populations. PLoS ONE, 7(12), e50198.",
+      "link": "https://doi.org/10.1371/journal.pone.0050198"
+    },
+    {
+      "citation": "Butler, A. M., Yin, X., Evans, D. S., Nalls, M. A., Smith, E. N., Tanaka, T., Li, G., Buxbaum, S. G., Whitsel, E. A., Alonso, A., Arking, D. E., Benjamin, E. J., Berenson, G. S., Bis, J. C., Chen, W., Deo, R., Ellinor, P. T., Heckbert, S. R., Heiss, G., … Avery, C. L. (2012). Novel Loci Associated With PR Interval in a Genome-Wide Association Study of 10 African American Cohorts. Circulation: Cardiovascular Genetics, 5(6), 639–646.",
+      "link": "https://doi.org/10.1161/circgenetics.112.963991"
+    },
+    {
+      "citation": "Staines-Urias, E., Paez, M. C., Doyle, P., Dudbridge, F., Serrano, N. C., Ioannidis, J. P., Keating, B. J., Hingorani, A. D., & Casas, J. P. (2012). Genetic association studies in pre-eclampsia: systematic meta-analyses and field synopsis. International Journal of Epidemiology, 41(6), 1764–1775.",
+      "link": "https://doi.org/10.1093/ije/dys162"
+    },
+    {
+      "citation": "Asselbergs, F. W., Guo, Y., van Iperen, E. P. A., Sivapalaratnam, S., Tragante, V., Lanktree, M. B., Lange, L. A., Almoguera, B., Appelman, Y. E., Barnard, J., Baumert, J., Beitelshees, A. L., Bhangale, T. R., Chen, Y.-D. I., Gaunt, T. R., Gong, Y., Hopewell, J. C., Johnson, T., Kleber, M. E., … Drenos, F. (2012). Large-Scale Gene-Centric Meta-analysis across 32 Studies Identifies Multiple Lipid Loci. The American Journal of Human Genetics, 91(5), 823–838.",
+      "link": "https://doi.org/10.1016/j.ajhg.2012.08.032"
+    },
+    {
+      "citation": "Chiang, C. W. K., Liu, C.-T., Lettre, G., Lange, L. A., Jorgensen, N. W., Keating, B. J., Vedantam, S., Nock, N. L., Franceschini, N., Reiner, A. P., Demerath, E. W., Boerwinkle, E., Rotter, J. I., Wilson, J. G., North, K. E., Papanicolaou, G. J., Cupples, L. A., Murabito, J. M., & Hirschhorn, J. N. (2012). Ultraconserved Elements in the Human Genome: Association and Transmission Analyses of Highly Constrained Single-Nucleotide Polymorphisms. Genetics, 192(1), 253–266.",
+      "link": "https://doi.org/10.1534/genetics.112.141945"
+    },
+    {
+      "citation": "Fischer, M. E., Cruickshanks, K. J., Pinto, A., Schubert, C. R., Klein, B. E. K., Klein, R., Nieto, F. J., Pankow, J. S., Snyder, D. J., & Keating, B. J. (2012). Intensity of Salt Taste and Prevalence of Hypertension Are Not Related in the Beaver Dam Offspring Study. Chemosensory Perception, 5(2), 139–145.",
+      "link": "https://doi.org/10.1007/s12078-012-9118-8"
+    },
+    {
+      "citation": "Wang, K., Zhang, H., Mentch, F. D., Bradfield, J. P., Glessner, J. T., Qiu, H., Guo, Y., Hou, C., Frackelton, E. C., Thomas, K., Bender, A., Albano, A., Otieno, G., Garris, M., Seidler, K., Moy, A., Kim, C. E., Keating, B., Chiavacci, R. M., . . . Hakonarson, H. (2012b). Examination of genetic variants influencing lipid traits in pediatric populations. PubMed, 1(2), 85–98.",
+      "link": "https://doi.org/10.3233/pge-2012-016"
+    },
+    {
+      "citation": "The interleukin-6 receptor as a target for prevention of coronary heart disease: a mendelian randomisation analysis. (2012). The Lancet, 379(9822), 1214–1224.",
+      "link": "https://doi.org/10.1016/s0140-6736(12)60110-x"
+    },
+    {
+      "citation": "Ellis, J., Walston, J., Dupuis, J., Larkin, E., Barbalic, M., Keating, B., Durda, J. P., Fox, E., Palmer, C., Meng, Y., Young, T., Schnabel, R., Ramachandran, V., Pankow, J., Lettre, G., Lange, E., Ballantyne, C., Gross, M., Wilson, J., … Lange, L. (2012). Abstract P002: Evidence For Smoking Dependent Genetic Effects on C-reactive Protein Levels in a Multi-ethnic Cohort Setting: The Care Consortium. Circulation, 125(suppl_10).",
+      "link": "https://doi.org/10.1161/circ.125.suppl_10.ap002"
+    },
+    {
+      "citation": "Yoneyama, S., Taylor, K. C., Fox, C. S., Keating, B. J., Gong, Y., Reiner, A. P., Shen, H., Gorski, M., Padmanabhan, S., Rafelt, S., Munroe, P., Lanktree, M., Johnson, T., Gaunt, T. R., Guo, Y., Speilotes, L., Redline, S., Burke, G., Taylor, H., … Demerath, E. W. (2012). Abstract MP068: Association Study of SNPs and measures of adiposity among 51990 European and European American Identifies Three Novel Loci. Circulation, 125(suppl_10).",
+      "link": "https://doi.org/10.1161/circ.125.suppl_10.amp068"
+    },
+    {
+      "citation": "Saxena, R., Elbers, C. C., Guo, Y., Peter, I., Gaunt, T. R., Mega, J. L., Lanktree, M. B., Tare, A., Castillo, B. A., Li, Y. R., Johnson, T., Bruinenberg, M., Gilbert-Diamond, D., Rajagopalan, R., Voight, B. F., Balasubramanyam, A., Barnard, J., Bauer, F., Baumert, J., … Keating, B. J. (2012). Large-Scale Gene-Centric Meta-Analysis across 39 Studies Identifies Type 2 Diabetes Loci. The American Journal of Human Genetics, 90(3), 410–425.",
+      "link": "https://doi.org/10.1016/j.ajhg.2011.12.022"
+    },
+    {
+      "citation": "Asselbergs, F. W., Guo, Y., van Iperen, E. P. A., Sivapalaratnam, S., Tragante, V., Lanktree, M. B., Lange, L. A., Almoguera, B., Appelman, Y. E., Barnard, J., Baumert, J., Beitelshees, A. L., Bhangale, T. R., Chen, Y.-D. I., Gaunt, T. R., Gong, Y., Hopewell, J. C., Johnson, T., Kleber, M. E., … Drenos, F. (2012). Large-Scale Gene-Centric Meta-analysis across 32 Studies Identifies Multiple Lipid Loci. The American Journal of Human Genetics, 91(5), 823–838.",
+      "link": "https://doi.org/10.1016/j.ajhg.2012.08.032"
+    },
+    {
+      "citation": "N’Diaye, A., Chen, G. K., Palmer, C. D., Ge, B., Tayo, B., Mathias, R. A., Ding, J., Nalls, M. A., Adeyemo, A., Adoue, V., Ambrosone, C. B., Atwood, L., Bandera, E. V., Becker, L. C., Berndt, S. I., Bernstein, L., Blot, W. J., Boerwinkle, E., Britton, A., … Haiman, C. A. (2011). Identification, Replication, and Fine-Mapping of Loci Associated with Adult Height in Individuals of African Ancestry. PLoS Genetics, 7(10), e1002298.",
+      "link": "https://doi.org/10.1371/journal.pgen.1002298"
+    },
+    {
+      "citation": "(2011). Large-Scale Gene-Centric Analysis Identifies Novel Variants for Coronary Artery Disease. PLoS Genetics, 7(9), e1002260.",
+      "link": "https://doi.org/10.1371/journal.pgen.1002260"
+    },
+    {
+      "citation": "Taylor, K. C., Lange, L. A., Zabaneh, D., Lange, E., Keating, B. J., Tang, W., Smith, N. L., Delaney, J. A., Kumari, M., Hingorani, A., North, K. E., Kivimaki, M., Tracy, R. P., O’Donnell, C. J., Folsom, A. R., Green, D., Humphries, S. E., & Reiner, A. P. (2011). A gene-centric association scan for Coagulation Factor VII levels in European and African Americans: the Candidate Gene Association Resource (CARe) Consortium. Human Molecular Genetics, 20(17), 3525–3534.",
+      "link": "https://doi.org/10.1093/hmg/ddr264"
+    },
+    {
+      "citation": "Hinch, A. G., Tandon, A., Patterson, N., Song, Y., Rohland, N., Palmer, C. D., Chen, G. K., Wang, K., Buxbaum, S. G., Akylbekova, E. L., Aldrich, M. C., Ambrosone, C. B., Amos, C., Bandera, E. V., Berndt, S. I., Bernstein, L., Blot, W. J., Bock, C. H., Boerwinkle, E., … Myers, S. R. (2011). The landscape of recombination in African Americans. Nature, 476(7359), 170–175.",
+      "link": "https://doi.org/10.1038/nature10336"
+    },
+    {
+      "citation": "Bhushan, B., Khalyfa, A., Spruyt, K., Kheirandish-Gozal, L., Capdevila, O. S., Bhattacharjee, R., Kim, J., Keating, B., Hakonarson, H., & Gozal, D. (2011). Fatty-acid binding protein 4 gene polymorphisms and plasma levels in children with obstructive sleep apnea. Sleep Medicine, 12(7), 666–671.",
+      "link": "https://doi.org/10.1016/j.sleep.2010.12.014"
+    },
+    {
+      "citation": "Reiner, A. P., Lettre, G., Nalls, M. A., Ganesh, S. K., Mathias, R., Austin, M. A., Dean, E., Arepalli, S., Britton, A., Chen, Z., Couper, D., Curb, J. D., Eaton, C. B., Fornage, M., Grant, S. F. A., Harris, T. B., Hernandez, D., Kamatini, N., Keating, B. J., … Wilson, J. G. (2011). Genome-Wide Association Study of White Blood Cell Count in 16,388 African Americans: the Continental Origins and Genetic Epidemiology Network (COGENT). PLoS Genetics, 7(6), e1002108.",
+      "link": "https://doi.org/10.1371/journal.pgen.1002108"
+    },
+    {
+      "citation": "Smith, E. N., Koller, D. L., Panganiban, C., Szelinger, S., Zhang, P., Badner, J. A., Barrett, T. B., Berrettini, W. H., Bloss, C. S., Byerley, W., Coryell, W., Edenberg, H. J., Foroud, T., Gershon, E. S., Greenwood, T. A., Guo, Y., Hipolito, M., Keating, B. J., Lawson, W. B., … Kelsoe, J. R. (2011). Genome-Wide Association of Bipolar Disorder Suggests an Enrichment of Replicable Associations in Regions near Genes. PLoS Genetics, 7(6), e1002134.",
+      "link": "https://doi.org/10.1371/journal.pgen.1002134"
+    },
+    {
+      "citation": "Zhu, X., Young, J. H., Fox, E., Keating, B. J., Franceschini, N., Kang, S., Tayo, B., Adeyemo, A., Sun, Y. V., Li, Y., Morrison, A., Newton-Cheh, C., Liu, K., Ganesh, S. K., Kutlar, A., Vasan, R. S., Dreisbach, A., Wyatt, S., Polak, J., … Levy, D. (2011). Combined admixture mapping and association analysis identifies a novel blood pressure genetic locus on 5p13: contributions from the CARe consortium. Human Molecular Genetics, 20(11), 2285–2295.",
+      "link": "https://doi.org/10.1093/hmg/ddr113"
+    },
+    {
+      "citation": "Fox, E. R., Young, J. H., Li, Y., Dreisbach, A. W., Keating, B. J., Musani, S. K., Liu, K., Morrison, A. C., Ganesh, S., Kutlar, A., Ramachandran, V. S., Polak, J. F., Fabsitz, R. R., Dries, D. L., Farlow, D. N., Redline, S., Adeyemo, A., Hirschorn, J. N., Sun, Y. V., … Levy, D. (2011). Association of genetic variation with systolic and diastolic blood pressure among African Americans: the Candidate Gene Association Resource study. Human Molecular Genetics, 20(11), 2273–2284.",
+      "link": "https://doi.org/10.1093/hmg/ddr092"
+    },
+    {
+      "citation": "Edmondson, A. C., Braund, P. S., Stylianou, I. M., Khera, A. V., Nelson, C. P., Wolfe, M. L., DerOhannessian, S. L., Keating, B. J., Qu, L., He, J., Tobin, M. D., Tomaszewski, M., Baumert, J., Klopp, N., Döring, A., Thorand, B., Li, M., Reilly, M. P., Koenig, W., … Rader, D. J. (2011). Dense Genotyping of Candidate Gene Loci Identifies Variants Associated With High-Density Lipoprotein Cholesterol. Circulation: Cardiovascular Genetics, 4(2), 145–155.",
+      "link": "https://doi.org/10.1161/circgenetics.110.957563"
+    },
+    {
+      "citation": "Lettre, G., Palmer, C. D., Young, T., Ejebe, K. G., Allayee, H., Benjamin, E. J., Bennett, F., Bowden, D. W., Chakravarti, A., Dreisbach, A., Farlow, D. N., Folsom, A. R., Fornage, M., Forrester, T., Fox, E., Haiman, C. A., Hartiala, J., Harris, T. B., Hazen, S. L., … Boerwinkle, E. (2011). Genome-Wide Association Study of Coronary Heart Disease and Its Risk Factors in 8,090 African Americans: The NHLBI CARe Project. PLoS Genetics, 7(2), e1001300.",
+      "link": "https://doi.org/10.1371/journal.pgen.1001300"
+    },
+    {
+      "citation": "Lanktree, M. B., Guo, Y., Murtaza, M., Glessner, J. T., Bailey, S. D., Onland-Moret, N. C., Lettre, G., Ongen, H., Rajagopalan, R., Johnson, T., Shen, H., Nelson, C. P., Klopp, N., Baumert, J., Padmanabhan, S., Pankratz, N., Pankow, J. S., Shah, S., Taylor, K., … Keating, B. J. (2011). Meta-analysis of Dense Genecentric Association Studies Reveals Common and Uncommon Variants Associated with Height. The American Journal of Human Genetics, 88(1), 6–18.",
+      "link": "https://doi.org/10.1016/j.ajhg.2010.11.007"
+    },
+    {
+      "citation": "Wassel, C. L., Lange, L. A., Keating, B. J., Taylor, K. C., Johnson, A. D., Palmer, C., Ho, L. A., Smith, N. L., Lange, E. M., Li, Y., Yang, Q., Delaney, J. A., Tang, W., Tofler, G., Redline, S., Taylor, H. A., Jr, Wilson, J. G., Tracy, R. P., Jacobs, D. R., Jr, … Reiner, A. P. (2011). Association of genomic loci from a cardiovascular gene SNP array with fibrinogen levels in European Americans and African-Americans from six cohort studies: the Candidate Gene Association Resource (CARe). Blood, 117(1), 268–275.",
+      "link": "https://doi.org/10.1182/blood-2010-06-289546"
+    },
+    {
+      "citation": "Lo, K. S., Wilson, J. G., Lange, L. A., Folsom, A. R., Galarneau, G., Ganesh, S. K., Grant, S. F. A., Keating, B. J., McCarroll, S. A., Mohler III, E. R., O’Donnell, C. J., Palmas, W., Tang, W., Tracy, R. P., Reiner, A. P., & Lettre, G. (2010). Genetic association analysis highlights new loci that modulate hematological trait variation in Caucasians and African Americans. Human Genetics, 129(3), 307–317.",
+      "link": "https://doi.org/10.1007/s00439-010-0925-1"
+    },
+    {
+      "citation": "Zhao, J., Li, M., Bradfield, J. P., Zhang, H., Mentch, F. D., Wang, K., Sleiman, P. M., Kim, C. E., Glessner, J. T., Hou, C., Keating, B. J., Thomas, K. A., Garris, M. L., Deliard, S., Frackelton, E. C., Otieno, F. G., Chiavacci, R. M., Berkowitz, R. I., Hakonarson, H., & Grant, S. F. (2010). The role of height-associated loci identified in genome wide association studies in the determination of pediatric stature. BMC Medical Genetics, 11(1).",
+      "link": "https://doi.org/10.1186/1471-2350-11-96"
+    },
+    {
+      "citation": "Shen, H., Bielak, L. F., Ferguson, J. F., Streeten, E. A., Yerges-Armstrong, L. M., Liu, J., Post, W., O’Connell, J. R., Hixson, J. E., Kardia, S. L. R., Sun, Y. V., Jhun, M. A., Wang, X., Mehta, N. N., Li, M., Koller, D. L., Hakonarson, H., Keating, B. J., Rader, D. J., … Mitchell, B. D. (2010). Association of the Vitamin D Metabolism Gene CYP24A1 With Coronary Artery Calcification. Arteriosclerosis, Thrombosis, and Vascular Biology, 30(12), 2648–2654.",
+      "link": "https://doi.org/10.1161/atvbaha.110.211805"
+    },
+    {
+      "citation": "Tang, W., Cushman, M., Basu, S., Green, D., Reiner, A. P., Delaney, J. A., Lange, L. A., Smith, N. L., Tracy, R. P., Wilson, J. G., Tofler, G., Yang, Q., Keating, B. J., Taylor, H., Jacobs, D., O’Donnell, C. J., & Folsom, A. R. (2010). Gene-Centric Approach Identifies New and Known Loci for Factor VIII Activity and Von Willebrand Factor Antigen In the Candidate Gene Association Resource (CARe) Consortium. Blood, 116(21), 806–806.",
+      "link": "https://doi.org/10.1182/blood.v116.21.806.806"
+    },
+    {
+      "citation": "Wong, S. H., Gochhait, S., Malhotra, D., Pettersson, F. H., Teo, Y. Y., Khor, C. C., Rautanen, A., Chapman, S. J., Mills, T. C., Srivastava, A., Rudko, A., Freidin, M. B., Puzyrev, V. P., Ali, S., Aggarwal, S., Chopra, R., Reddy, B. S. N., Garg, V. K., Roy, S., … Vannberg, F. O. (2010). Leprosy and the Adaptation of Human Toll-Like Receptor 1. PLoS Pathogens, 6(7), e1000979.",
+      "link": "https://doi.org/10.1371/journal.ppat.1000979"
+    },
+    {
+      "citation": "Musunuru, K., Lettre, G., Young, T., Farlow, D. N., Pirruccello, J. P., Ejebe, K. G., Keating, B. J., Yang, Q., Chen, M.-H., Lapchyk, N., Crenshaw, A., Ziaugra, L., Rachupka, A., Benjamin, E. J., Cupples, L. A., Fornage, M., Fox, E. R., Heckbert, S. R., … Hirschhorn, J. N. (2010). Candidate Gene Association Resource (CARe). Circulation: Cardiovascular Genetics, 3(3), 267–275.",
+      "link": "https://doi.org/10.1161/circgenetics.109.882696"
+    },
+    {
+      "citation": "Cappola, T. P., Li, M., He, J., Ky, B., Gilmore, J., Qu, L., Keating, B., Reilly, M., Kim, C. E., Glessner, J., Frackelton, E., Hakonarson, H., Syed, F., Hindes, A., Matkovich, S. J., Cresci, S., & Dorn, G. W., II. (2010). Common Variants in HSPB7 and FRMD4B Associated With Advanced Heart Failure. Circulation: Cardiovascular Genetics, 3(2), 147–154.",
+      "link": "https://doi.org/10.1161/circgenetics.109.898395"
+    },
+    {
+      "citation": "Zhao, J., Li, M., Bradfield, J. P., Zhang, H., Mentch, F. D., Wang, K., Sleiman, P. M., Kim, C. E., Glessner, J. T., Hou, C., Keating, B. J., Thomas, K. A., Garris, M. L., Deliard, S., Frackelton, E. C., Otieno, F. G., Chiavacci, R. M., Berkowitz, R. I., Hakonarson, H., & Grant, S. F. (2010). The role of height-associated loci identified in genome wide association studies in the determination of pediatric stature. BMC Medical Genetics, 11(1).",
+      "link": "https://doi.org/10.1186/1471-2350-11-96"
+    },
+    {
+      "citation": "Fairfax, B. P., Vannberg, F. O., Radhakrishnan, J., Hakonarson, H., Keating, B. J., Hill, A. V. S., & Knight, J. C. (2009). An integrated expression phenotype mapping approach defines common variants in LEP, ALOX15 and CAPNS1 associated with induction of IL-6. Human Molecular Genetics, 19(4), 720–730.",
+      "link": "https://doi.org/10.1093/hmg/ddp530"
+    },
+    {
+      "citation": "Keating, B. J., Tischfield, S., Murray, S. S., Bhangale, T., Price, T. S., Glessner, J. T., Galver, L., Barrett, J. C., Grant, S. F. A., Farlow, D. N., Chandrupatla, H. R., Hansen, M., Ajmal, S., Papanicolaou, G. J., Guo, Y., Li, M., DerOhannessian, S., de Bakker, P. I. W., Bailey, S. D., … FitzGerald, G. A. (2008). Concept, Design and Implementation of a Cardiovascular Gene-Centric 50 K SNP Array for Large-Scale Genomic Association Studies. PLoS ONE, 3(10), e3583.",
+      "link": "https://doi.org/10.1371/journal.pone.0003583"
+    },
+    {
+      "citation": "Cappola, T., Li, M., He, J., Ky, B., Gilmore, J., Keating, B., Reilly, M., Syed, F., Matkovich, S., & Dorn, G., II. (2008). Abstract 4874: Large-Scale Candidate Gene Association with Human Heart Failure. Circulation, 118(suppl_18).",
+      "link": "https://doi.org/10.1161/circ.118.suppl_18.s_954-b"
+    },
+    {
+      "citation": "Hull, J., Campino, S., Rowlands, K., Chan, M.-S., Copley, R. R., Taylor, M. S., Rockett, K., Elvidge, G., Keating, B., Knight, J., & Kwiatkowski, D. (2007). Identification of Common Genetic Variation That Modulates Alternative Splicing. PLoS Genetics, 3(6), e99.",
+      "link": "https://doi.org/10.1371/journal.pgen.0030099"
+    },
+    {
+      "citation": "Wilson, J. N., Rockett, K., Keating, B., Jallow, M., Pinder, M., Sisay-Joof, F., Newport, M., & Kwiatkowski, D. (2006). A hallmark of balancing selection is present at the promoter region of interleukin 10. Genes & Immunity, 7(8), 680–683.",
+      "link": "https://doi.org/10.1038/sj.gene.6364336"
+    },
+    {
+      "citation": "Hanchard, N., Diakite, M., Koch, O., Keating, B., Pinder, M., Jallow, M., Sisay-Joof, F., Nijnik, A., Wilson, J., Udalova, I., Kwiatkowski, D., & Rockett, K. (2006). Implications of inter-population linkage disequilibrium patterns on the approach to a disease association study in the human MHC class III. Immunogenetics, 58(5–6), 465–470.",
+      "link": "https://doi.org/10.1007/s00251-006-0118-1"
+    },
+    {
+      "citation": "Paracchini, S., Thomas, A., Castro, S., Lai, C., Paramasivam, M., Wang, Y., Keating, B. J., Taylor, J. M., Hacking, D. F., Scerri, T., Francks, C., Richardson, A. J., Wade-Martins, R., Stein, J. F., Knight, J. C., Copp, A. J., LoTurco, J., & Monaco, A. P. (2006). The chromosome 6p22 haplotype associated with dyslexia reduces the expression of KIAA0319 , a novel gene involved in neuronal migration. Human Molecular Genetics, 15(10), 1659–1666.",
+      "link": "https://doi.org/10.1093/hmg/ddl089"
+    },
+    {
+      "citation": "Knight, J. C., & Keating, B. J. (2006). Polymorphism of TNF Genes and Disease Susceptibility. In Encyclopedia of Life Sciences. Wiley.",
+      "link": "https://doi.org/10.1038/npg.els.0002186"
+    },
+    {
+      "citation": "Hanchard, N., Rockett, K., Udalova, I., Wilson, J., Keating, B., Koch, O., Nijnik, A., Diakite, M., Herbert, M., & Kwiatkowski, D. (2005). An investigation of transmission ratio distortion in the central region of the human MHC. Genes & Immunity, 7(1), 51–58.",
+      "link": "https://doi.org/10.1038/sj.gene.6364277"
+    },
+    {
+      "citation": "Knight, J. C., Keating, B. J., & Kwiatkowski, D. P. (2004). Allele-specific repression of lymphotoxin-α by activated B cell factor-1. Nature Genetics, 36(4), 394–399.",
+      "link": "https://doi.org/10.1038/ng1331"
+    },
+    {
+      "citation": "Knight, J. C., Keating, B. J., Rockett, K. A., & Kwiatkowski, D. P. (2003). In vivo characterization of regulatory polymorphisms by allele-specific quantification of RNA polymerase loading. Nature Genetics, 33(4), 469–475.",
+      "link": "https://doi.org/10.1038/ng1124"
+    }
+  ],
+  "team": {
+    "members": [
+      {
+        "name": "Berk Maden",
+        "degree": "MD",
+        "position": "Research Assistant",
+        "photo": "/images/people/berk-maden.png",
+        "projects": "Various projects on xenotransplantation.",
+        "about": "I participated in various research projects at the Keating Lab during my medical studies and graduated with an MD from Ataturk University, Turkey, in 2025. I currently work remotely with the Keating Lab while actively practicing as a clinician."
+      },
+      {
+        "name": "Brendan J. Keating",
+        "degree": "D.Phil.(PhD). Dept of Clinical Medicine. University of Oxford",
+        "position": "Associate Professor, Division of Tranplantation, Dept of Surgery and Institute of Systems Genetics. NYU Langone Health",
+        "photo": "/images/people/brendan-keating.jpg",
+        "projects": "Various projects using omics to improve Allo and Xenotransplant studies."
+      },
+      {
+        "name": "Chan Wang",
+        "degree": "PhD",
+        "position": "Research Assistant Professor",
+        "photo": "/images/people/chan-wang.jpg",
+        "projects": "Multi-omics data integration analysis in xenotransplantation studies.",
+        "about": "I love walks, LEGO, and puzzles."
+      },
+      {
+        "name": "Chelsie Brathwaite",
+        "degree": "Bachelor’s degree in Global Public Health From New York University",
+        "position": "Research Data Associate",
+        "photo": "/images/people/chelsie-brathwaite.jpg",
+        "projects": "Xofluza Wearables Study.",
+        "about": "I have a strong foundation in both research and community health, allowing me to approach complex issues with a deep understanding of real-world impact. My experience bridges data driven insight with compassionate, community centered care."
+      },
+      {
+        "name": "Cyrille Guillot-Tantay",
+        "degree": "MD, PhD (Sorbonne Université, Paris)",
+        "position": "Post doctoral fellowship",
+        "photo": "/images/people/cyrille-guillot-tantay.jpg",
+        "projects": "Urinary biomarkers in renal xenotransplantation.",
+        "about": "I’m a urologist based in Paris with a PhD from Sorbonne University, specializing in kidney transplantation. I joined the lab in 2025 to benefit from its amazing knowledge in renal xenotransplantation and to contribute, as a surgeon, to developing this major breakthrough in modern medicine."
+      },
+      {
+        "name": "David Andrijevic",
+        "degree": "MD",
+        "position": "General Surgery Resident at NYU Grossman School of Medicine",
+        "photo": "/images/people/david-andrijevic-crop.jpg",
+        "projects": "Xenotransplantation, Ischemia-Reperfusion Injury"
+      },
+      {
+        "name": "Diana Argibay",
+        "degree": "MS in Biology",
+        "position": "Senior Research Technician",
+        "photo": "/images/people/diana-argibay-crop.jpg",
+        "projects": "Zoonosis testing, processing of clinical research samples, Xenium In Situ, cfDNA sequencing.",
+        "about": "Diana is a Brooklyn native and has been with the lab since July 2024. She helps support the lab’s experimental workflows and daily operations."
+      },
+      {
+        "name": "Divya Gandla",
+        "degree": "B.S. in Biomedical Engineering, Columbia University. M.D. Candidate, University of Central Florida College of Medicine",
+        "position": "Medical Student Researcher",
+        "photo": "/images/people/divya-gandla-crop.jpg",
+        "about": "I’m a second-year medical student at the University of Central Florida with a background in biomedical engineering and prior research experience in transplant medicine and digital health. I’m particularly interested in leveraging technology and biomarker-based tools to personalize care and improve outcomes for patients with complex medical needs."
+      },
+      {
+        "name": "Eloi Schmauch",
+        "degree": "PhD",
+        "position": "Computational Biology Analyst",
+        "photo": "/images/people/eloi-schmauch.jpg",
+        "projects": "Spatial transcriptomics, single cell/nuclei RNA-seq, Heart and Kidney Xenotransplantation, Rejuvenation.",
+        "about": "I am an MD-PhD student at the University of Strasbourg and a laureate of the Ecole de l’INSERM Liliane Bettencourt MD-PhD program. I completed my PhD in 2024, following an MSc, and am currently in my fourth year of medical studies. My work focuses on computational biology, with a particular interest in the role of transcriptomics in advancing clinical care."
+      },
+      {
+        "name": "Emmry Stimson",
+        "degree": "MS Interdisciplinary Studies in Biological and Physical Science",
+        "position": "Medical Student Researcher",
+        "photo": "/images/people/emmry-stimson-crop.JPG",
+        "projects": "Urinary scRNAseq, urinary metabolomics in porcine kidney xenotransplant Xeno Liver Multiomics.",
+        "about": "I love to experience foods from all over the world from different cuisines and am always looking to try new authentic restaurants!"
+      },
+      {
+        "name": "Francesca Zanoni",
+        "degree": "M.D.,  Nephrologist (University of Milan, Italy)",
+        "position": "Adjunct Assistant Professor",
+        "photo": "/images/people/francesca-zanoni-crop.jpg",
+        "projects": "I currently lead and coordinate several multi-center translational research projects focused on the genetic and immunological determinants of  kidney transplantation outcomes. These studies are conducted within the framework of large international consortia such as iGeneTRAiN, in close collaboration with several Research Centers. My work includes developing and applying polygenic risk scores (PRS) for IgA nephropathy, membranous nephropathy, and chronic kidney disease to predict post-transplant disease recurrence.  In addition, I conduct genome-wide association studies (GWAS) and cross-organ meta-analyses exploring the genetic architecture of acute rejection and graft failure in solid organ transplantation. Lastly, given my clinical expertise, I contribute to multi-omics allo- and xeno-transplantation studies to improve the clinical traslationability of new findings.",
+        "about": " I am a nephrologist and academic researcher with dual clinical and research training in Italy and the United States. My primary research interest lies at the intersection of nephrology, transplantation, and genomics, with a focus on identifying genetic risk factors that can inform personalized medicine approaches in kidney transplantation and glomerular diseases. I aim to bridge the gap between genomic discoveries and clinical application to improve patient outcomes."
+      },
+      {
+        "name": "Frank Liu",
+        "degree": "MS from University of California Berkeley",
+        "position": "MD/PhD trainee",
+        "photo": "/images/people/frank-liu-crop.jpg",
+        "projects": " Training a large language model that specializes in knowledge regarding infectious diseases in xenotransplantation.",
+        "about": "I am from San Mateo, California and my hobbies include playing the piano and traveling the world!"
+      },
+      {
+        "name": "Hui Gao",
+        "degree": "Ph.D. (got from Auburn University)",
+        "position": "Data Manager",
+        "photo": "/images/people/hui-gao-crop.jpeg",
+        "projects": "He's working on data management of multiple projects including xeno transplant, wearables, iGeneTRAiN GWAS, VIRTUUS, and PMBB/Regeneron project.",
+        "about": "He's interested in automating phenotype data collection and applying new computing technologies to data analysis."
+      },
+      {
+        "name": "Jasmine M. Akhtar",
+        "degree": "BS in Neurobiology and Physiology at University of Maryland",
+        "position": "Master’s Student",
+        "photo": "/images/people/jasmine-akhtar.jpg",
+        "projects": "Multi-omics profiling of Urine-Derived Cells to Understand Dynamic Cellular Changes Following Pig Kidney Xenotransplantation and thesis project involving xeno proteomics.",
+        "about": "I'm currently pursuing an M.S. in Biology (Bioinformatics track) at NYU. Alongside my studies, I work as a research coordinator in transplant surgery, where I support qualitative and quantitative research projects."
+      },
+      {
+        "name": "Jennifer Motter",
+        "degree": "MHS, Johns Hopkins University",
+        "position": "PhD Student",
+        "photo": "/images/people/jennifer-motter.jpg"
+      },
+      {
+        "name": "Kiana Moi",
+        "degree": "MS, CGC",
+        "position": "Research Genetic Counselor",
+        "photo": "/images/people/kiana-moi.jpg",
+        "projects": "At the Keating lab, she works on projects related to genomics for the organ transplant population.",
+        "about": "Kiana Moi is a Research Genetic Counselor for the Keating lab at NYU Langone. She received her Masters degree in Genetic Counseling at the Icahn School of Medicine at Mount Sinai and her Bachelors in Molecular Biology from UC Berkeley. Previously, she worked in Product Development in the sequencing biotechnology industry. While at Mount Sinai, she worked for the eMERGE network (Electronic Medical Records & Genomics) to study the use of genetic testing in the general population."
+      },
+      {
+        "name": "Leah Wu",
+        "degree": "Animal Science (BS) from University of Georgia",
+        "position": "Senior Research Technician",
+        "photo": "/images/people/leah-wu.jpg",
+        "projects": "Various wet lab work including ONT Sequencing, Zoonosis PCR, and sample processing.",
+        "about": "I love basset hounds, a nice view, and a good meal."
+      },
+      {
+        "name": "Mauricio Arcila-Mesa, M.D.",
+        "degree": "Universidad Autónoma de Guadalajara School of Medicine",
+        "position": "Research Project Manager",
+        "photo": "/images/people/mauricio-arcila-mesa.jpeg",
+        "projects": "Feasibility Study of Xofluza treatment of Influenza in Pediatric Transplant Recipients, Waitlisted Subjects and Household Members after early infection alerting using Wearable Devices.",
+        "about": "I’m a Research Project Manager at NYU Langone, where I support clinical and translational research in transplantation. Originally from Colombia, I’m passionate about creating inclusive, collaborative research environments and helping move science forward in ways that center patients. Outside of work, I love to travel, cook, and explore the intersection of culture, health, and community."
+      },
+      {
+        "name": "Mercy Rophina",
+        "degree": "I earned my Ph.D. from the CSIR-Institute of Genomics and Integrative Biology (IGIB) in New Delhi, India, with a specialization in genome informatics, population genomics, and pathogen genomics. My doctoral research was primarily focused on transfusion and transplantation genomics, where I explored genomic diversity and its implications for clinical compatibility and immune response",
+        "position": "Post Doctoral Fellow",
+        "photo": "/images/people/mercy-rophina-crop.jpg",
+        "projects": "I am currently involved in several genomics-focused research projects within the field of transplantation. A major component of my work involves the analysis of whole genome sequencing (WGS) data from transplant recipient cohorts, with the goal of identifying both primary pathogenic variants and secondary/incidental findings that may have clinical implications. In addition, I focus on pharmacogenomic profiling to predict individual responses to immunosuppressive and other commonly prescribed medications, which is critical for optimizing post-transplant care. My work also includes detailed typing of immune-related gene families such as HLA, KIR, and LILR, which are essential for understanding graft compatibility, rejection risk, and immune modulation. Complementing this, I lead efforts in single-cell transcriptomic analysis of xenotransplant recipients, where I investigate the composition and dynamics of urinary immune and epithelial cell populations across multiple timepoints. This allows us to track cellular and immunological changes over the course of transplantation, providing insights into graft adaptation, early rejection signals, and immune activation. In addition to these projects, I also contribute to genome-wide association studies (GWAS) across transplant and other patient cohorts to identify genetic variants associated with acute rejection, graft failure, and other post-transplant complications. Together, these efforts aim to enhance precision medicine approaches in transplantation by integrating genomic, cellular, and clinical data.",
+        "about": "I joined Keating’s lab as a postdoctoral fellow in March 2024, and  over the past year, it’s been incredibly rewarding to apply my genomics skillset in the context of transplantation research. Working at the intersection of science and clinical care has not only deepened my appreciation for translational genomics but also given me the chance to learn a wide range of new techniques and perspectives. That ongoing sense of learning is what keeps the excitement of doing science alive for me. Outside the lab, I find joy in painting—it&#39;s my creative outlet and a grounding balance to my research life."
+      },
+      {
+        "name": "Om Thakur",
+        "degree": "MS in Computer Engineering, New York University (Pursuing)",
+        "position": "Student Research Intern",
+        "photo": "/images/people/om-thakur-crop.jpg",
+        "projects": "Contributing to research projects focused on xenotransplantation.",
+        "about": "I’m a graduate student at NYU pursuing an MS in Computer Engineering, with a keen interest in biomedical data science, software engineering, and AI in healthcare. At Langone, I’m excited to support research in xenotransplantation through impactful technical contributions."
+      },
+      {
+        "name": "Qian (Zoe) Guo",
+        "degree": "PhD",
+        "position": "Postdoc",
+        "photo": "/images/people/qian(Zoe)-guo-crop.jpg",
+        "projects": "Multi-omics Studies in Xenotransplantation.",
+        "about": "Decoding omics and dullness."
+      },
+      {
+        "name": "Riyana Bhatt",
+        "degree": " Drexel University",
+        "position": "Undergraduate Research Assistant",
+        "photo": "/images/people/riyana-bhatt.jpg",
+        "projects": "Xofluza-Wearables, Xenotransplant.",
+        "about": "I am an undergraduate at Drexel University studying biology and bioinformatics, with a strong interest in pursuing research in molecular biology and genetics."
+      },
+      {
+        "name": "Shreyas Joshi",
+        "degree": "PhD (University of Kentucky)",
+        "position": "Computational Biologist",
+        "photo": "/images/people/shreyas-joshi.jpeg",
+        "projects": "Infectious disease detection, AI for integrated multi-omics analysis.",
+        "about": "Shreyas specializes in building scalable pipelines for genomic data analysis, integrating multi-omics insights, and applying machine learning—including large language models—to accelerate biomedical discovery. His recent work focuses on AI-powered tools for transplant immunology and interactive platforms for biomarker and target identification."
+      },
+      {
+        "name": "Simon H. Williams",
+        "degree": "PhD (University of Western Australia)",
+        "position": "Senior Research Scientist",
+        "photo": "/images/people/simon-williams.jpg",
+        "projects": " Zoonosis and infectious disease monitoring in xenotransplantation.",
+        "about": "After starting my career in infectious disease diagnostics and surveillance in Australia, I moved to Columbia University to explore virus discovery and vector borne diseases. I have since worked in biotech building molecular diagnostic LDTs for targets including SARS-CoV-2 and monkeypox, as well as expanded qPCR panels for respiratory, lesion, fungal and gastrointestinal pathogens. Working within the xenotransplant field allows me to bring all these experiences together and apply them to an exciting new therapeutic technology."
+      },
+      {
+        "name": "Susanna Vikman",
+        "degree": "MS, University of Southern California",
+        "position": "Lab Supervisor",
+        "photo": "/images/people/susanna-vikman-crop.png",
+        "projects": "Illumina spatial, Xenium, cell specific cfDNA Sequencing ONT, ordering, lab safety.",
+        "about": "I am an experienced lab supervisor with a history of working in academia and biotech industry. I am skilled in molecular biology techniques and clinical laboratory medicine."
+      },
+      {
+        "name": "Vincent Mauduit",
+        "degree": "PhD",
+        "position": "Postdoc",
+        "photo": "/images/people/vincent-mauduit.jpg",
+        "projects": "GWASs in the allotransplantation setting (iGeneTRAiN consortium), donor-recipient HLA and non-HLA matching, xenotransplantation methylation atlases Sentence: My main background is in bioinformatics and I joined the Keating Lab as an analyst in early 2025."
+      },
+      {
+        "name": "Zasha Zayas",
+        "degree": "B.A in Biology",
+        "position": "Senior Research Technician",
+        "photo": "/images/people/zasha-zayas-crop.JPG",
+        "projects": "Biobanking, ONT sequencing and Single-cell RNA sequencing.",
+        "about": "Cat mom, lover of all things Lord of the Rings and kindle obsessed."
+      }
+    ]
+  }
+}
