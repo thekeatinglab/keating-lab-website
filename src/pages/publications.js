@@ -57,45 +57,41 @@ export default function Publications() {
             {/* Pagination Controls */}
             {totalPages > 1 && (
               <div className="mt-8 flex flex-col items-center space-y-4">
-                <div className="flex space-x-2">
-                  {/* Previous Button */}
-                  <button
-                    onClick={() => handlePageChange(currentPage - 1)}
-                    disabled={currentPage === 1}
-                    className={`px-4 py-2 rounded-md text-sm font-medium ${
-                      currentPage === 1
-                        ? 'bg-gray-200 text-gray-400 cursor-not-allowed'
-                        : 'bg-purple-800 text-white hover:bg-blue-300'
-                    }`}
-                  >
-                    Previous
-                  </button>
-                  {/* Page Numbers */}
-                  {pageNumbers.map((number) => (
+                <div className="w-full overflow-x-auto">
+                  <div className="flex space-x-2 min-w-max">
+                    {/* Previous Button */}
                     <button
-                      key={number}
-                      onClick={() => handlePageChange(number)}
-                      className={`px-4 py-2 rounded-md text-sm font-medium ${
-                        currentPage === number
-                          ? 'bg-purple-800 text-white'
-                          : 'bg-gray-200 text-gray-600 hover:bg-blue-300 hover:text-white'
-                      }`}
+                      onClick={() => handlePageChange(currentPage - 1)}
+                      disabled={currentPage === 1}
+                      className="px-3 py-1.5 rounded-md text-sm font-medium md:px-4 md:py-2
+                        disabled:bg-gray-200 disabled:text-gray-400 disabled:cursor-not-allowed
+                        bg-purple-800 text-white hover:bg-blue-300"
                     >
-                      {number}
+                      Previous
                     </button>
-                  ))}
-                  {/* Next Button */}
-                  <button
-                    onClick={() => handlePageChange(currentPage + 1)}
-                    disabled={currentPage === totalPages}
-                    className={`px-4 py-2 rounded-md text-sm font-medium ${
-                      currentPage === totalPages
-                        ? 'bg-gray-200 text-gray-400 cursor-not-allowed'
-                        : 'bg-purple-800 text-white hover:bg-blue-300'
-                    }`}
-                  >
-                    Next
-                  </button>
+                    {/* Page Numbers */}
+                    {pageNumbers.map((number) => (
+                      <button
+                        key={number}
+                        onClick={() => handlePageChange(number)}
+                        className="px-3 py-1.5 rounded-md text-sm font-medium md:px-4 md:py-2
+                          disabled:bg-gray-200 disabled:text-gray-400 disabled:cursor-not-allowed
+                          bg-purple-800 text-white hover:bg-blue-300"
+                      >
+                        {number}
+                      </button>
+                    ))}
+                    {/* Next Button */}
+                    <button
+                      onClick={() => handlePageChange(currentPage + 1)}
+                      disabled={currentPage === totalPages}
+                      className="px-3 py-1.5 rounded-md text-sm font-medium md:px-4 md:py-2
+                        disabled:bg-gray-200 disabled:text-gray-400 disabled:cursor-not-allowed
+                        bg-purple-800 text-white hover:bg-blue-300"
+                    >
+                      Next
+                    </button>
+                  </div>
                 </div>
                 {/* Page Info */}
                 <p className="text-sm text-gray-600">
