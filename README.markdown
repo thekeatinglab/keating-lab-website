@@ -3,12 +3,14 @@
 Welcome! This guide helps you update the Keating Lab website (live at [https://keatinglab.com](https://keatinglab.com)) without needing technical skills. The site is hosted on Vercel and uses a file called `labData.json` to manage lab information, team details, publications, research projects, news, and more. Follow these simple steps to add or edit content using GitHub.
 
 ## Before You Start
-- You need to sign in the lab's GitHub account.
+- You need a GitHub account. If you don’t have one, sign up at [github.com](https://github.com).
+- Ask Om to add you as a collaborator to the private repository `keating-lab-website`. You’ll get an email invitation to join.
+- Use a computer with internet access.
 
 ## Steps to Update Content
 
 ### 1. Log into GitHub
-- Go to [github.com](https://github.com) and sign in with the lab's username and password.
+- Go to [github.com](https://github.com) and sign in with your username and password.
 
 ### 2. Find the Repository
 - In the search bar at the top, type `keating-lab-website` and press Enter.
@@ -19,6 +21,7 @@ Welcome! This guide helps you update the Keating Lab website (live at [https://k
   - On the repository page, click the **public/images** folder.
   - Click **Add file** > **Upload files**.
   - Drag and drop your photo or click to browse and select it.
+  - Use a **square photo (1:1 aspect ratio)**, ideally **300px × 300px** (e.g., `newperson.jpg` or `research-4.jpg`). Center the subject to avoid cropping.
   - In the “Commit changes” box at the bottom, type a message like “Uploaded new team photo” or “Added research image”.
   - Click **Commit changes**.
 
@@ -138,9 +141,10 @@ Welcome! This guide helps you update the Keating Lab website (live at [https://k
 - If something looks wrong, contact Om for help.
 
 ## Tips for Success
+- Use **300px × 300px square photos** to ensure they display well without cropping.
 - Double-check your changes before saving to avoid errors (e.g., missing commas).
 - If you’re unsure, ask Om for a quick demo or assistance.
 
 ## Need Help?
-- Contact Om at OmAjay.Thakur@nyulangone.org if you run into issues or need guidance.
+- Contact Om at [your email] if you run into issues or need guidance.
 - Thank you for helping keep the Keating Lab website up to date!
