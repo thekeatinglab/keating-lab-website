@@ -37,9 +37,6 @@ export default function Contact() {
                 </a>
               </p>
               <p className="text-sm mt-2">
-                <strong>Phone:</strong> {data.labInfo.phone}
-              </p>
-              <p className="text-sm mt-2">
                 <strong>Address:</strong> {data.labInfo.address}
               </p>
             </div>

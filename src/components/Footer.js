@@ -9,7 +9,6 @@ export default function Footer() {
           <h3 className="text-xl font-bold">{data.labInfo.name}</h3>
           <p>{data.labInfo.address}</p>
           <p>Email: <a href={`mailto:${data.labInfo.email}`} className="hover:text-blue-300">{data.labInfo.email}</a></p>
-          <p>Phone: {data.labInfo.phone}</p>
         </div>
         <div>
           <iframe
