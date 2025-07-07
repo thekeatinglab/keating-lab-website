@@ -6,6 +6,7 @@ export default function App({ Component, pageProps }) {
     <>
       <Head>
         <meta name="google-site-verification" content="N44oozC6jOxHtbF5SgSlA2aDJBHYsk3Es6BeDN2m2PI" />
+        <link rel="icon" href="/favicon.ico" />
       </Head>
       <Component {...pageProps} />
     </>
